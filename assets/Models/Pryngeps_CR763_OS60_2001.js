@@ -1,0 +1,88 @@
+export default {
+    title: "Pryngeps CR763 Chronograph 2001",
+    sliderImages: [
+        require("../Images/Pryngeps_CR763/IMG_3224.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3225.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3226.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3227.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3228.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3229.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3230.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3231.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3232.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3233.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3234.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3235.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3236.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3237.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3238.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3239.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3240.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3280.jpg"),
+        require("../Images/Pryngeps_CR763/IMG_3281.jpg"),
+    ],
+    technicalData: {
+        Features: [
+            "Date",
+            "Chronograph",
+            "100 meters",
+            "Tachymeter"
+        ],
+
+        Information: {
+            "Brand": "Pryngeps",
+            "Series": "Chronograph",
+            "Catalogue Reference": "CR763",
+            "Prodution Year": "2001",
+            "Movement": "Quartz",
+            "Style": "Casual Watch"
+        },
+
+        Case: {
+            "Diameter": "40 mm",
+            "Tickness": "8 mm",
+            "Material": "Stainles Steel - Gold plated details",
+            "Water Resistance": "Waterproof up to 100 M / 328 feet",
+            "Finishing": "Polished",
+            "Bezel": "Tachymeter graduated bezel",
+            "Crown": "Push-In",
+            "Crystal": "Mineral",
+            "Case Back": "Brand decoration and details engraved"
+        },
+
+        Dial: {
+            "Color": "Black",
+            "Dial markers": "Sticks",
+            "Finishing Details": "Detailed sub-dials",
+            "Luminescent Indexes": "Hands and markers (Luminova)",
+            "Calendar": "Date display at 3 o´clock position"
+        },
+
+        Strap: {
+            "Material": "Leather",
+            "Buckle": "Standard buckle",
+            "Width": "20 mm",
+            "Color": "Black"
+        },
+
+        Movement: {
+            "Title": "Miyota OS60",
+            "Description": "",
+            "UsefullLinks": {
+                "Instruction Manual from Miyota": "../Files/0s60.pdf",
+            },
+            "sliderImages": [
+                require("../Images/Emes_Chrono_OS60/os60-1.jpg"),
+                require("../Images/Emes_Chrono_OS60/os60-2.jpg")
+            ],
+            "Details": {
+                "Manufacturer": "Miyota (Citizen)",
+                "Caliber Number": "OS60",
+                "Type": "Quartz",
+                "Battery": "399",
+                "Jewels": "0 Jewels (None)",
+                "Functions": "Chrono up to 12 hours 60min, Date, Hours, Minutes, Seconds at 6 o´clock",
+            }
+        }
+    },
+}
