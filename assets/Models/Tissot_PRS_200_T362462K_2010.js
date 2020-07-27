@@ -1,29 +1,29 @@
 export default {
     title: "Tissot PRS 200 T362/462K Chronograph 2010",
     sliderImages: [
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2368.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2369.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2370.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2371.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2372.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2373.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2374.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2375.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2376.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2377.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2378.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2379.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2380.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2381.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2382.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2383.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2384.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2385.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2386.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2387.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2388.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2389.jpg"),
-        require("../Images/Tissot/Tissot_PRS_200/IMG_2390.jpg"),
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2368.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2369.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2370.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2371.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2372.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2373.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2374.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2375.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2376.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2377.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2378.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2379.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2380.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2381.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2382.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2383.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2384.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2385.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2386.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2387.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2388.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2389.JPG",
+        "assets/Images/Tissot/Tissot_PRS_200/IMG_2390.JPG",
     ],
     technicalData: {
         Features: [
@@ -63,11 +63,11 @@ export default {
             "Calendar": "Date display at 4 o´clock position"
         },
 
-        Strap: {
-            "Material": "SS Links bracelet",
+        Bracelet: {
+            "Material": "SS Links Bracelet",
             "Buckle": "Tissot folding clasp",
             "Width": "19 mm",
-            "Color": "Silver"
+            "Color": "Grey"
         },
 
         Movement: {
@@ -82,10 +82,10 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_PRS_200/eta-caliber-g10-211-3.jpg"),
-                require("../Images/Tissot/Tissot_PRS_200/eta-caliber-g10-211-4.jpg"),
-                require("../Images/Tissot/Tissot_PRS_200/eta-caliber-g10-211.jpg"),
-                require("../Images/Tissot/Tissot_PRS_200/eta-caliber-g10-211-2.jpg"),
+                "assets/Images/Tissot/Tissot_PRS_200/eta-caliber-g10-211-3.JPG",
+                "assets/Images/Tissot/Tissot_PRS_200/eta-caliber-g10-211-4.JPG",
+                "assets/Images/Tissot/Tissot_PRS_200/eta-caliber-g10-211.JPG",
+                "assets/Images/Tissot/Tissot_PRS_200/eta-caliber-g10-211-2.JPG",
             ],
 
             "Details": {

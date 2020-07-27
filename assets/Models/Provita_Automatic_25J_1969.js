@@ -2,28 +2,28 @@ export default {
     title: "Provita Automatic 25 Jewels 1969",
 
     sliderImages: [
-        require("../Images/Provita_Automatic/IMG_0453.jpg"),
-        require("../Images/Provita_Automatic/IMG_0454.jpg"),
-        require("../Images/Provita_Automatic/IMG_0455.jpg"),
-        require("../Images/Provita_Automatic/IMG_0456.jpg"),
-        require("../Images/Provita_Automatic/IMG_0457.jpg"),
-        require("../Images/Provita_Automatic/IMG_0458.jpg"),
-        require("../Images/Provita_Automatic/IMG_0459.jpg"),
-        require("../Images/Provita_Automatic/IMG_0460.jpg"),
-        require("../Images/Provita_Automatic/IMG_0461.jpg"),
-        require("../Images/Provita_Automatic/IMG_0462.jpg"),
-        require("../Images/Provita_Automatic/IMG_0463.jpg"),
-        require("../Images/Provita_Automatic/IMG_0464.jpg"),
-        require("../Images/Provita_Automatic/IMG_0465.jpg"),
-        require("../Images/Provita_Automatic/IMG_0466.jpg"),
-        require("../Images/Provita_Automatic/IMG_0467.jpg"),
-        require("../Images/Provita_Automatic/IMG_0468.jpg"),
-        require("../Images/Provita_Automatic/IMG_0469.jpg"),
-        require("../Images/Provita_Automatic/IMG_0470.jpg"),
-        require("../Images/Provita_Automatic/IMG_0471.jpg"),
-        require("../Images/Provita_Automatic/IMG_0472.jpg"),
-        require("../Images/Provita_Automatic/IMG_0473.jpg"),
-        require("../Images/Provita_Automatic/IMG_0474.jpg"),
+        "assets/Images/Provita/Provita_Automatic/IMG_0453.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0454.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0455.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0456.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0457.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0458.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0459.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0460.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0461.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0462.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0463.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0464.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0465.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0466.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0467.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0468.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0469.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0470.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0471.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0472.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0473.JPG",
+        "assets/Images/Provita/Provita_Automatic/IMG_0474.JPG",
 
     ],
     technicalData: {
@@ -54,18 +54,18 @@ export default {
         },
 
         Dial: {
-            "Color": "Gray",
+            "Color": "Grey",
             "Dial markers": "Sticks",
             "Finishing Details": "Radial brushed effect",
             "Luminescent Indexes": "Hands (Tritium)",
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "Integrated SS links bracelet",
+        Bracelet: {
+            "Material": "Integrated SS Links Bracelet",
             "Buckle": "Folding clasp",
             "Width": "24 mm",
-            "Color": "SS Gray"
+            "Color": "SS Grey"
         },
 
         Movement: {
@@ -77,11 +77,11 @@ export default {
                 "ETA 2783 Vintage Parts Catalogue": "../Files/496_ETA2750,1,2,6,4.pdf",
             },
             "sliderImages": [
-                require("../Images/Provita_Automatic/ETA2783 1.jpg"),
-                require("../Images/Provita_Automatic/ETA2783 2.jpg"),
-                require("../Images/Monumental_Swiss 1975/mov1.png"),
-                require("../Images/Monumental_Swiss 1975/mov2.png"),
-                require("../Images/Monumental_Swiss 1975/mov3.png"),
+                "assets/Images/Provita/Provita_Automatic/ETA2783 1.JPG",
+                "assets/Images/Provita/Provita_Automatic/ETA2783 2.JPG",
+                "assets/Images/Monumental/Monumental_Swiss 1975/mov1.PNG",
+                "assets/Images/Monumental/Monumental_Swiss 1975/mov2.PNG",
+                "assets/Images/Monumental/Monumental_Swiss 1975/mov3.PNG",
             ],
             "Details": {
                 "Manufacturer": "ETA",

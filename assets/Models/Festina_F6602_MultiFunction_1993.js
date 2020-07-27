@@ -1,21 +1,21 @@
 export default {
     title: "Festina F6602 Multi-Function Chrono 1993",
     sliderImages: [
-        require("../Images/Festina_F6602_Titanium/IMG_3146.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3147.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3148.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3149.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3150.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3151.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3152.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3153.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3154.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3155.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3156.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3157.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_0366.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_3172.jpg"),
-        require("../Images/Festina_F6602_Titanium/IMG_1927.jpg"),
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3146.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3147.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3148.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3149.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3150.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3151.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3152.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3153.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3154.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3155.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3156.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3157.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_0366.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_3172.JPG",
+        "assets/Images/Festina/Festina_F6602_Titanium/IMG_1927.JPG",
 
 
     ],
@@ -23,6 +23,7 @@ export default {
         Features: [
             "Date",
             "Tachymeter",
+            "Chronograph",
             "100 meters",
             "Titanium",
             "Alarm",
@@ -57,11 +58,11 @@ export default {
             "Calendar": "Date display at 4 o´clock position"
         },
 
-        Strap: {
-            "Material": "SS Links bracelet",
+        Bracelet: {
+            "Material": "SS Links Bracelet",
             "Buckle": "Folding clasp",
             "Width": "19 mm",
-            "Color": "(Titanium) matte gray"
+            "Color": "(Titanium) matte Grey"
         },
 
         Movement: {
@@ -71,8 +72,8 @@ export default {
                 "Instruction Manual from Miyota": "../Files/3510_instructions.pdf",
             },
             "sliderImages": [
-                require("../Images/Festina_F6602_Titanium/miyota-caliber-3s10-1.jpg"),
-                require("../Images/Festina_F6602_Titanium/miyota-caliber-3s10-drawing.jpg"),
+                "assets/Images/Festina/Festina_F6602_Titanium/miyota-caliber-3s10-1.JPG",
+                "assets/Images/Festina/Festina_F6602_Titanium/miyota-caliber-3s10-drawing.JPG",
             ],
             "Details": {
                 "Manufacturer": "Miyota (Citizen)",

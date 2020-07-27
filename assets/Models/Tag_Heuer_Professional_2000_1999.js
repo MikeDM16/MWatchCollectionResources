@@ -1,22 +1,22 @@
 export default {
     title: "Tag Heuer Professional 2000 WK1213 1999",
     sliderImages: [
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4679.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4680.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4681.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4682.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4683.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4684.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4685.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4686.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4687.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4688.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4689.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4690.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4691.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4692.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4694.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4695.jpg")
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4679.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4680.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4681.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4682.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4683.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4684.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4685.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4686.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4687.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4688.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4689.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4690.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4691.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4692.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4694.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/IMG_4695.JPG",
     ],
     technicalData: {
         Features: [
@@ -40,7 +40,7 @@ export default {
             "Tickness": "9 mm",
             "Material": "Stainless Steel",
             "Water Resistance": "Waterproof up to 200 M / 666 feet",
-            "Finishing": "Mate",
+            "Finishing": "Matte",
             "Bezel": "Uni-directional, 5-minute graduated",
             "Crown": "Screwed-In",
             "Crystal": "Sapphire",
@@ -51,12 +51,12 @@ export default {
             "Color": "Blue",
             "Dial markers": "Sticks",
             "Finishing Details": "Fine sand texture",
-            "Luminescent Indexes": "Hands and sticks (Tritium)",
+            "Luminescent Indexes": "Hands and Sticks (Tritium)",
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "SS links bracelet",
+        Bracelet: {
+            "Material": "SS Links Bracelet",
             "Buckle": "Tag Heuer deploy clasp",
             "Width": "18 mm",
             "Color": "Grey"
@@ -69,10 +69,10 @@ export default {
                 "ETA 955.112": "http://www.eta.ch/en/our-products/quartz-movements/normflatline/eta-normflatline-955112",
             },
             "sliderImages": [
-                require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/ETA955.412_1.jpg"),
-                require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/ETA955.412_2.jpg"),
-                require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/ETA_955112.png"),
-                require("../Images/Tag_Heuer/Tag_Heuer_Pro2000/ETA_955112-2.png")
+                "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/ETA955412_1.JPG",
+                "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/ETA955412_1.JPG",
+                "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/ETA_955112.PNG",
+                "assets/Images/Tag_Heuer/Tag_Heuer_Pro2000/ETA_955112-2.PNG"
             ],
             "Details": {
                 "Manufacturer": "ETA (Swiss Made)",

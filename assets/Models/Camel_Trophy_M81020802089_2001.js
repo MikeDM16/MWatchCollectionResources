@@ -2,18 +2,18 @@ export default {
     title: "Camel Trophy M810.2080-2089 L2 Chrono 2001",
 
     sliderImages: [
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_148.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1441.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1448.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1447.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1439.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1440.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1442.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1443.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1446.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1444.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/IMG14486.jpg"),
-        require("../Images/Camel/Camel Trophy L2 Chronograph 2001/clean.jpg"),
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_148.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1441.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1448.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1447.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1439.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1440.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1442.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1443.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1446.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG_1444.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/IMG14486.JPG",
+        "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/clean.JPG",
     ],
     Description: {
         text: "Camel Trophy Watches presents itself as a currently pursued and relatively collectable brand. \n" +
@@ -87,7 +87,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard Buckle",
             "Width": "18 mm",
@@ -103,8 +103,8 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Camel/Camel Trophy L2 Chronograph 2001/0s10-2.jpg"),
-                require("../Images/Camel/Camel Trophy L2 Chronograph 2001/0s10-1.jpg"),
+                "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/0s10-2.JPG",
+                "assets/Images/Camel/Camel Trophy L2 Chronograph 2001/0s10-1.JPG",
             ],
 
             "Details": {

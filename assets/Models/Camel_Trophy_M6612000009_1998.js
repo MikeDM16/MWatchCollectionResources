@@ -2,22 +2,22 @@ export default {
     title: "Camel Trophy M661.2000.2009 Time Date 1998",
 
     sliderImages: [
-        require("../Images/Camel/Camel Trophy Time Date 1998/1.jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/8.jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/9.jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/10.jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/4.jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/5.jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/6.jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/7.jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/2 (1).jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/2 (5).jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/2 (10).jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/3 (4).jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/3 (8).jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/3 (10).jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/1 (4).jpg"),
-        require("../Images/Camel/Camel Trophy Time Date 1998/clean.jpg"),
+        "assets/Images/Camel/Camel Trophy Time Date 1998/1.JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/8.JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/9.JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/10.JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/4.JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/5.JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/6.JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/7.JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/2 (1).JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/2 (5).JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/2 (10).JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/3 (4).JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/3 (8).JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/3 (10).JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/1 (4).JPG",
+        "assets/Images/Camel/Camel Trophy Time Date 1998/clean.JPG",
     ],
     Description: {
         text: "Camel Trophy Watches presents itself as a currently pursued and relatively collectable brand. \n" +
@@ -91,7 +91,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard Buckle",
             "Width": "18 mm",
@@ -105,7 +105,7 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Camel/Camel Trophy Time Date 1998/ronda315.png")
+                "assets/Images/Camel/Camel Trophy Time Date 1998/ronda315.PNG"
 
             ],
 

@@ -1,34 +1,34 @@
 export default {
     title: "Tissot Sports E662/762M 2000",
     sliderImages: [
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1073.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1074.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1075.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1076.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1077.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1078.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1080.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1081.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1082.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1083.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1084.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1085.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1086.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1087.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1088.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1089.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1090.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1091.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1092.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1093.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1095.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1095_1.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1096.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1097.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1098.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1099.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1100.jpg"),
-        require("../Images/Tissot/Tissot_Sport_E662762M/IMG_1101.jpg")
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1073.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1074.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1075.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1076.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1077.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1078.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1080.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1081.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1082.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1083.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1084.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1085.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1086.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1087.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1088.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1089.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1090.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1091.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1092.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1093.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1095.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1095_1.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1096.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1097.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1098.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1099.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1100.JPG",
+        "assets/Images/Tissot/Tissot_Sport_E662762M/IMG_1101.JPG"
     ],
     technicalData: {
         Features: [
@@ -66,7 +66,7 @@ export default {
             "Calendar": "Date display at 4 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard Buckle",
             "Width": "20 mm",
@@ -85,10 +85,10 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_Sport_E662762M/eta-caliber-g10-211-3.jpg"),
-                require("../Images/Tissot/Tissot_Sport_E662762M/eta-caliber-g10-211-4.jpg"),
-                require("../Images/Tissot/Tissot_Sport_E662762M/eta-caliber-g10-211.jpg"),
-                require("../Images/Tissot/Tissot_Sport_E662762M/eta-caliber-g10-211-2.jpg"),
+                "assets/Images/Tissot/Tissot_Sport_E662762M/eta-caliber-g10-211-3.JPG",
+                "assets/Images/Tissot/Tissot_Sport_E662762M/eta-caliber-g10-211-4.JPG",
+                "assets/Images/Tissot/Tissot_Sport_E662762M/eta-caliber-g10-211.JPG",
+                "assets/Images/Tissot/Tissot_Sport_E662762M/eta-caliber-g10-211-2.JPG",
             ],
 
             "Details": {

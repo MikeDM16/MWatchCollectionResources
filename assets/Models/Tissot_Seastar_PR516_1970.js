@@ -1,26 +1,26 @@
 export default {
     title: "Tissot Seastar PR 516 1970",
     sliderImages: [
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1626.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1627.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1628.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1629.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1630.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1631.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1632.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1633.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1634.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1635.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1636.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1637.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1584.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1638.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1588.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1639.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1587.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/IMG_1589.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/MQLE2384.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_1970/UTTB4144.jpg"),
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1626.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1627.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1628.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1629.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1630.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1631.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1632.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1633.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1634.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1635.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1636.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1637.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1584.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1638.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1588.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1639.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1587.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/IMG_1589.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/MQLE2384.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_1970/UTTB4144.JPG",
     ],
     technicalData: {
         Features: [
@@ -50,14 +50,14 @@ export default {
         },
 
         Dial: {
-            "Color": "Gray",
+            "Color": "Grey",
             "Dial markers": "Sticks",
             "Finishing Details": "Subtle vertical brush",
             "Luminescent Indexes": "Hands (Tritium)",
-            "Calendar": "Without calendar"
+            "Calendar": "without Calendar"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard buckle",
             "Width": "18 mm",
@@ -75,8 +75,8 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_PR_516_1970/tissot_781-1-1.jpg"),
-                require("../Images/Tissot/Tissot_PR_516_1970/tissot_781-1-2.jpg"),
+                "assets/Images/Tissot/Tissot_PR_516_1970/tissot_781-1-1.JPG",
+                "assets/Images/Tissot/Tissot_PR_516_1970/tissot_781-1-2.JPG",
             ],
             "Details": {
                 "Manufacturer": "Tissot (Swiss Made)",

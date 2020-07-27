@@ -2,27 +2,27 @@ export default {
     title: "Tissot PRS 516 J562/662 Chronograph 2005",
 
     sliderImages: [
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0069.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0071.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0072.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0073.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0075.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0077.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0079.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0081.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0083.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0085.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0087.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0089.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0090.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0093.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0095.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0097.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0099.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0101.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0103.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0105.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0107.jpg"),
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0069.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0071.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0072.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0073.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0075.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0077.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0079.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0081.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0083.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0085.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0087.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0089.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0090.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0093.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0095.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0097.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0099.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0101.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0103.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0105.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/IMG_0107.JPG",
     ],
     technicalData: {
         Features: [
@@ -62,11 +62,11 @@ export default {
             "Calendar": "Date display at 4 o´clock position"
         },
 
-        Strap: {
-            "Material": "SS links Racing style bracelet",
+        Bracelet: {
+            "Material": "SS Links Racing style bracelet",
             "Buckle": "Folding clasp",
             "Width": "21 mm",
-            "Color": "Silver"
+            "Color": "Grey"
         },
 
         Movement: {
@@ -84,10 +84,10 @@ export default {
             },
             "sliderImages": [
 
-                require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/eta-caliber-g10-211-3.jpg"),
-                require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/eta-caliber-g10-211-4.jpg"),
-                require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/eta-caliber-g10-211.jpg"),
-                require("../Images/Tissot/Tissot_PRS_516_Chrono_2005/eta-caliber-g10-211-2.jpg"),
+                "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/eta-caliber-g10-211-3.JPG",
+                "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/eta-caliber-g10-211-4.JPG",
+                "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/eta-caliber-g10-211.JPG",
+                "assets/Images/Tissot/Tissot_PRS_516_Chrono_2005/eta-caliber-g10-211-2.JPG",
             ],
 
             "Details": {

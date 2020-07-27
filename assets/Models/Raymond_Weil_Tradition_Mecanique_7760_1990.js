@@ -1,25 +1,25 @@
 export default {
     title: "Raymond Weil Tradition Mécanique 7760 1990",
     sliderImages: [
-        require("../Images/Raymond_Weil_7760/IMG_2324.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2325.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2326.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2327.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2328.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2329.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2330.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2331.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2332.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2333.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2334.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2335.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2336.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2337.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2338.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2339.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2340.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2341.jpg"),
-        require("../Images/Raymond_Weil_7760/IMG_2342.jpg")
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2324.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2325.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2326.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2327.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2328.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2329.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2330.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2331.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2332.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2333.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2334.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2335.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2336.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2337.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2338.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2339.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2340.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2341.JPG",
+        "assets/Images/Raymond_Weil/Raymond_Weil_7760/IMG_2342.JPG"
     ],
     technicalData: {
         Features: [
@@ -60,7 +60,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Crocodile Leather",
             "Buckle": "RW Gold plated",
             "Width": "19 mm",
@@ -77,9 +77,9 @@ export default {
                 "Instruction Manual from ETA": "../Files/3135_Valjoux7760operatingInstructions.pdf",
             },
             "sliderImages": [
-                require("../Images/Raymond_Weil_7760/7760_1.png"),
-                require("../Images/Raymond_Weil_7760/7760_2.png"),
-                require("../Images/Raymond_Weil_7760/7760_4.jpg"),
+                "assets/Images/Raymond_Weil/Raymond_Weil_7760/7760_1.PNG",
+                "assets/Images/Raymond_Weil/Raymond_Weil_7760/7760_2.PNG",
+                "assets/Images/Raymond_Weil/Raymond_Weil_7760/7760_4.JPG",
             ],
             "Details": {
                 "Manufacturer": "Valjoux",

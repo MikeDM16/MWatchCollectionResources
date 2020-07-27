@@ -1,29 +1,29 @@
 export default {
     title: "Helma Cal. AS1130 1950",
     sliderImages: [
-        require("../Images/Helma AS1130/IMG_1673.jpg"),
-        require("../Images/Helma AS1130/IMG_1674.jpg"),
-        require("../Images/Helma AS1130/IMG_1675.jpg"),
-        require("../Images/Helma AS1130/IMG_1676.jpg"),
-        require("../Images/Helma AS1130/IMG_1677.jpg"),
-        require("../Images/Helma AS1130/IMG_1678.jpg"),
-        require("../Images/Helma AS1130/IMG_1679.jpg"),
-        require("../Images/Helma AS1130/IMG_1680.jpg"),
-        require("../Images/Helma AS1130/IMG_1681.jpg"),
-        require("../Images/Helma AS1130/IMG_1682.jpg"),
-        require("../Images/Helma AS1130/IMG_1683.jpg"),
-        require("../Images/Helma AS1130/IMG_1684.jpg"),
-        require("../Images/Helma AS1130/IMG_1685.jpg"),
-        require("../Images/Helma AS1130/IMG_1686.jpg"),
-        require("../Images/Helma AS1130/IMG_1687.jpg"),
-        require("../Images/Helma AS1130/IMG_1688.jpg"),
-        require("../Images/Helma AS1130/IMG_1689.jpg"),
-        require("../Images/Helma AS1130/IMG_2643.jpg"),
-        require("../Images/Helma AS1130/IMG_2648.jpg"),
-        require("../Images/Helma AS1130/IMG_2649.jpg"),
-        require("../Images/Helma AS1130/IMG_2821.jpg"),
-        require("../Images/Helma AS1130/IMG_2826.jpg"),
-        require("../Images/Helma AS1130/IMG_2827.jpg"),
+        "assets/Images/Helma/Helma AS1130/IMG_1673.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1674.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1675.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1676.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1677.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1678.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1679.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1680.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1681.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1682.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1683.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1684.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1685.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1686.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1687.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1688.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_1689.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_2643.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_2648.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_2649.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_2821.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_2826.JPG",
+        "assets/Images/Helma/Helma AS1130/IMG_2827.JPG",
     ],
     technicalData: {
         Features: [
@@ -54,13 +54,13 @@ export default {
 
         Dial: {
             "Color": "White",
-            "Dial markers": "Roman and Sticks",
+            "Dial markers": "Arabic and Sticks",
             "Finishing Details": "Textured dial",
             "Luminescent Indexes": "Hands and markers (Tritium)",
-            "Calendar": "Without calendar"
+            "Calendar": "without Calendar"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather (Nato)",
             "Buckle": "Standard buckle",
             "Width": "19 mm",
@@ -78,8 +78,8 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Helma AS1130/mov1.png"),
-                require("../Images/Helma AS1130/mov2.png"),
+                "assets/Images/Helma/Helma AS1130/mov1.PNG",
+                "assets/Images/Helma/Helma AS1130/mov2.PNG",
 
             ],
             "Details": {

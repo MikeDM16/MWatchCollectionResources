@@ -1,24 +1,19 @@
 export default {
-    title: "Celsus Classic PP-AA782XG 2015",
+    title: "Celsus Classic PP-AB942G 2015",
     sliderImages: [
-        "assets/Images/Celsus/Celsus_GM10/IMG_2035.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2036.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2037.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2038.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2039.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2040.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2041.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2042.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2043.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2044.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2045.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2046.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2047.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2048.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2049.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2050.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_2051.JPG",
-        "assets/Images/Celsus/Celsus_GM10/IMG_0372d.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1767.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1768.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1769.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1770.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1771.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1772.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1773.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1774.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1775.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1776.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1777.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1778.JPG",
+        "assets/Images/Celsus/Celsus_AB942G_2020/IMG_1779.JPG", 
 
     ],
     technicalData: {
@@ -30,8 +25,8 @@ export default {
         Information: {
             "Brand": "Celsus",
             "Series": "Classic",
-            "Catalogue Reference": "PP AA782XG",
-            "Prodution Year": "2015",
+            "Catalogue Reference": "PP AB942G",
+            "Prodution Year": "2020",
             "Movement": "Quartz",
             "Style": "Dress Watch"
         },
@@ -49,16 +44,16 @@ export default {
         },
 
         Dial: {
-            "Color": "White",
-            "Dial markers": "Roman",
-            "Finishing Details": "Web Texture",
+            "Color": "Grey",
+            "Dial markers": "Arabic",
+            "Finishing Details": "-",
             "Luminescent Indexes": "None",
-            "Calendar": "Date display at 3 o´clock position"
+            "Calendar": "Date display at 6 o´clock position"
         },
 
         Bracelet: {
             "Material": "Cow Leather",
-            "Buckle": "Butterfly clasp",
+            "Buckle": "Standard Buckle",
             "Width": "22 mm",
             "Color": "Brown"
         },
@@ -72,8 +67,8 @@ export default {
                 "   ・Non-Breakable Date Construction ",
             "UsefullLinks": {},
             "sliderImages": [
-                "assets/Images/Celsus/Celsus_GM10/GM10-1.JPG",
-                "assets/Images/Celsus/Celsus_GM10/GM10-2.JPG",
+                "assets/Images/Celsus/Celsus_AB942G_2020/GM10-1.JPG",
+                "assets/Images/Celsus/Celsus_AB942G_2020/GM10-2.JPG",
             ],
             "Details": {
                 "Manufacturer": "Miyota (Citizen)",

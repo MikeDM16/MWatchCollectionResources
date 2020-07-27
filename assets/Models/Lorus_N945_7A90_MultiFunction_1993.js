@@ -21,38 +21,38 @@ export default {
 
             "These particular Lorus models are hard to find in good condition. ",
         sliderImages: [
-            require("../Images/Lorus/Lorus N945-7A10/N945 web/991ee770-0b96-469d-a72c-43be409cefce.jpg"),
-            require("../Images/Lorus/Lorus N945-7A10/N945 web/32179456.jpg"),
-            require("../Images/Lorus/Lorus N945-7A10/N945 web/Capturar.png"),
-            require("../Images/Lorus/Lorus N945-7A10/N945 web/k237864958.1.jpg"),
-            require("../Images/Lorus/Lorus N945-7A10/N945 web/radianf1.jpg"),
-            require("../Images/Lorus/Lorus N945-7A10/N945 web/YemaAdvert1989-SpationauteIIIFlygraf.jpg"),
-            require("../Images/Lorus/Lorus N945-7A10/N945 web/black.jpg"),
-            require("../Images/Lorus/Lorus N945-7A10/N945 web/blue1 (4).jpg"),
-            require("../Images/Lorus/Lorus N945-7A10/N945 web/green1 (1).jpg"),
-            require("../Images/Lorus/Lorus N945-7A10/N945 web/red1 (3).jpg"),
+            "assets/Images/Lorus/Lorus N945-7A10/N945 web/991ee770-0b96-469d-a72c-43be409cefce.JPG",
+            "assets/Images/Lorus/Lorus N945-7A10/N945 web/32179456.JPG",
+            "assets/Images/Lorus/Lorus N945-7A10/N945 web/Capturar.PNG",
+            "assets/Images/Lorus/Lorus N945-7A10/N945 web/k237864958.1.JPG",
+            "assets/Images/Lorus/Lorus N945-7A10/N945 web/radianf1.JPG",
+            "assets/Images/Lorus/Lorus N945-7A10/N945 web/YemaAdvert1989-SpationauteIIIFlygraf.JPG",
+            "assets/Images/Lorus/Lorus N945-7A10/N945 web/black.JPG",
+            "assets/Images/Lorus/Lorus N945-7A10/N945 web/blue1 (4).JPG",
+            "assets/Images/Lorus/Lorus N945-7A10/N945 web/green1 (1).JPG",
+            "assets/Images/Lorus/Lorus N945-7A10/N945 web/red1 (3).JPG",
         ],
     },
 
     sliderImages: [
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0698.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0683.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0684.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0685.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0686.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0687.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0688.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0689.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0690-1.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0690.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0691.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0692.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0693.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0694.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0695.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0696.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/IMG_0697.jpg"),
-        require("../Images/Lorus/Lorus N945-7A90/XGNQ2877.jpg"),
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0698.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0683.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0684.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0685.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0686.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0687.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0688.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0689.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0690-1.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0690.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0691.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0692.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0693.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0694.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0695.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0696.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/IMG_0697.JPG",
+        "assets/Images/Lorus/Lorus N945-7A90/XGNQ2877.JPG",
 
     ],
     technicalData: {
@@ -92,7 +92,7 @@ export default {
             "Calendar": "Calendar pointer around the dial"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather strap",
             "Buckle": "Standard Buckle",
             "Width": "20 mm",
@@ -107,8 +107,8 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Lorus/Lorus N945-7A10/L-N945-Mov1.jpg"),
-                require("../Images/Lorus/Lorus N945-7A10/L-N945-Mov2.jpg"),
+                "assets/Images/Lorus/Lorus N945-7A10/L-N945-Mov1.JPG",
+                "assets/Images/Lorus/Lorus N945-7A10/L-N945-Mov2.JPG",
             ],
 
             "Details": {

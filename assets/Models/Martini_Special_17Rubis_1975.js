@@ -1,20 +1,20 @@
 export default {
     title: "Martini Special 17 Rubis 1975",
     sliderImages: [
-        require("../Images/Martini_Special 1975/IMG_2779.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2780.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2781.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2782.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2783.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2784.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2785.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2786.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2787.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2788.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2789.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2790.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2791.jpg"),
-        require("../Images/Martini_Special 1975/IMG_2792.jpg"),
+        "assets/Images/Martini/Martini_Special 1975/IMG_2779.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2780.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2781.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2782.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2783.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2784.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2785.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2786.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2787.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2788.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2789.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2790.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2791.JPG",
+        "assets/Images/Martini/Martini_Special 1975/IMG_2792.JPG",
 
     ],
     technicalData: {
@@ -52,7 +52,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position, Cyclop lens"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard buckle",
             "Width": "18 mm",
@@ -67,10 +67,10 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Martini_Special 1975/mov1.png"),
-                require("../Images/Martini_Special 1975/mov2.png"),
-                require("../Images/Martini_Special 1975/mov3.png"),
-                require("../Images/Martini_Special 1975/mov4.png"),
+                "assets/Images/Martini/Martini_Special 1975/mov1.PNG",
+                "assets/Images/Martini/Martini_Special 1975/mov2.PNG",
+                "assets/Images/Martini/Martini_Special 1975/mov3.PNG",
+                "assets/Images/Martini/Martini_Special 1975/mov4.PNG",
 
             ],
             "Details": {

@@ -2,25 +2,25 @@ export default {
     title: "Tissot PRS 516 J565/665 Retrograde Chronograph 2005",
 
     sliderImages: [
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0651.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0652.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0653.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0654.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0655.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0656.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0657.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0658.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0659.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0660.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0661.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0662.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0663.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0664.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0665.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0666.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0667.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/tissot_catalogue.jpg"),
-        require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/tissot_site.jpg"),
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0651.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0652.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0653.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0654.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0655.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0656.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0657.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0658.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0659.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0660.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0661.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0662.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0663.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0664.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0665.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0666.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/IMG_0667.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/tissot_catalogue.JPG",
+        "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/tissot_site.JPG",
     ],
     technicalData: {
         Features: [
@@ -59,7 +59,7 @@ export default {
             "Calendar": "Date display at 4 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Folding clasp",
             "Width": "20 mm",
@@ -80,8 +80,8 @@ export default {
                 "Technical Information from ETA": "../Files/ETA_G15261_technical_info.pdf",
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/G15_261_verso.png"),
-                require("../Images/Tissot/Tissot_PRS_516_Retrograde 2009/G15_261_verso1.png"),
+                "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/G15_261_verso.PNG",
+                "assets/Images/Tissot/Tissot_PRS_516_Retrograde 2009/G15_261_verso1.PNG",
             ],
 
             "Details": {

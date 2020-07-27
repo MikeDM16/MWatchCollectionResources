@@ -1,25 +1,25 @@
 export default {
     title: "Tissot Seastar Eletronic 1985",
     sliderImages: [
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4348.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4349.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4350.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4351.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4352.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4353.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4354.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4355.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4356.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4357.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4358.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4359.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4360.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4361.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4362.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4363.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4364.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/IMG_4365.jpg"),
-        require("../Images/Tissot/Tissot_Le_Locle_1985/tissot case.jpg"),
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4348.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4349.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4350.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4351.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4352.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4353.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4354.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4355.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4356.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4357.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4358.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4359.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4360.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4361.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4362.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4363.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4364.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/IMG_4365.JPG",
+        "assets/Images/Tissot/Tissot_Le_Locle_1985/tissot case.JPG",
     ],
     technicalData: {
         Features: [
@@ -57,7 +57,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Folding clasp",
             "Width": "18 mm",
@@ -72,8 +72,8 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_Le_Locle_1985/ETA_955112.png"),
-                require("../Images/Tissot/Tissot_Le_Locle_1985/ETA_955112-2.png"),
+                "assets/Images/Tissot/Tissot_Le_Locle_1985/ETA_955112.PNG",
+                "assets/Images/Tissot/Tissot_Le_Locle_1985/ETA_955112-2.PNG",
             ],
             "Details": {
                 "Manufacturer": "ETA",

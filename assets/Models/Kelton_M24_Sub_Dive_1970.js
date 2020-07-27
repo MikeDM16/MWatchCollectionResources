@@ -32,31 +32,31 @@ export default {
     },
 
     sliderImages: [
-        require("../Images/Kelton_M24_1970/IMG_1942.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1943.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1944.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1945.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1946.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1947.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1948.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1949.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1950.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1951.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1952.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1953.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1954.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1955.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1956.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_0273.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_0274.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_0276.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_0277.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_1764.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_2040.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_2042.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_2043.jpg"),
-        require("../Images/Kelton_M24_1970/IMG_2600.jpg"),
-        require("../Images/Kelton_M24_1970/dial.jpg"),
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1942.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1943.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1944.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1945.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1946.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1947.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1948.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1949.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1950.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1951.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1952.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1953.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1954.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1955.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1956.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_0273.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_0274.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_0276.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_0277.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_1764.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_2040.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_2042.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_2043.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/IMG_2600.JPG",
+        "assets/Images/Kelton/Kelton_M24_1970/dial.JPG",
 
     ],
     technicalData: {
@@ -95,11 +95,11 @@ export default {
             "Calendar": "Date display at 4 o´clock position"
         },
 
-        Strap: {
-            "Material": "SS Lunks bracelet",
+        Bracelet: {
+            "Material": "SS Links bracelet",
             "Buckle": "Foldinmg clasp",
             "Width": "19 mm",
-            "Color": "Metal Gray"
+            "Color": "Metal Grey"
         },
 
         Movement: {
@@ -110,8 +110,8 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Kelton_M24_1970/mov.jpg"),
-                require("../Images/Kelton_M24_1970/Timex_M24-1.jpg"),
+                "assets/Images/Kelton/Kelton_M24_1970/mov.JPG",
+                "assets/Images/Kelton/Kelton_M24_1970/Timex_M24-1.JPG",
             ],
             "Details": {
                 "Manufacturer": "Timex (France)",

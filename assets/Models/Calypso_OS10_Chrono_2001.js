@@ -2,27 +2,27 @@ export default {
     title: "Calypso Chronograph OS10",
 
     sliderImages: [
-        require("../Images/Calypso_Chrono_OS10/IMG_2951.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2952.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2953.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2954.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2955.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2956.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2957.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2958.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2967.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2968.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2969.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2970.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2971.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2972.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2973.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2974.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2975.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2976.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_2977.jpg"),
-        require("../Images/Calypso_Chrono_OS10/MRRQ2327.jpg"),
-        require("../Images/Calypso_Chrono_OS10/IMG_0781.jpg"),
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2951.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2952.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2953.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2954.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2955.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2956.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2957.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2958.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2967.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2968.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2969.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2970.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2971.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2972.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2973.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2974.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2975.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2976.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_2977.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/MRRQ2327.JPG",
+        "assets/Images/Calypso/Calypso_Chrono_OS10/IMG_0781.JPG",
     ],
     technicalData: {
         Features: [
@@ -36,7 +36,7 @@ export default {
             "Brand": "Calypso (Festina Group)",
             "Series": "Chronograph",
             "Catalogue Reference": "2011",
-            "Prodution Year": "2001",
+            "Prodution Year": "1998",
             "Movement": "Quartz",
             "Style": "Sports Watch"
         },
@@ -61,7 +61,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Shark Skin Leather",
             "Buckle": "Standard Buckle",
             "Width": "18 mm",
@@ -76,8 +76,8 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Calypso_Chrono_OS10/0s10-1.jpg"),
-                require("../Images/Calypso_Chrono_OS10/0s10-2.jpg"),
+                "assets/Images/Calypso/Calypso_Chrono_OS10/0s10-1.JPG",
+                "assets/Images/Calypso/Calypso_Chrono_OS10/0s10-2.JPG",
             ],
 
             "Details": {

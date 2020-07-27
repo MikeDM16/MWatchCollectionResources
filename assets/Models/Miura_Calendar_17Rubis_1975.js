@@ -1,22 +1,22 @@
 export default {
     title: "Miura Calendar 17 Rubis 1975",
     sliderImages: [
-        require("../Images/Miura 1975/IMG_2762.jpg"),
-        require("../Images/Miura 1975/IMG_2763.jpg"),
-        require("../Images/Miura 1975/IMG_2764.jpg"),
-        require("../Images/Miura 1975/IMG_2765.jpg"),
-        require("../Images/Miura 1975/IMG_2766.jpg"),
-        require("../Images/Miura 1975/IMG_2767.jpg"),
-        require("../Images/Miura 1975/IMG_2768.jpg"),
-        require("../Images/Miura 1975/IMG_2769.jpg"),
-        require("../Images/Miura 1975/IMG_2770.jpg"),
-        require("../Images/Miura 1975/IMG_2771.jpg"),
-        require("../Images/Miura 1975/IMG_2772.jpg"),
-        require("../Images/Miura 1975/IMG_2773.jpg"),
-        require("../Images/Miura 1975/IMG_2774.jpg"),
-        require("../Images/Miura 1975/IMG_2775.jpg"),
-        require("../Images/Miura 1975/IMG_2776.jpg"),
-        require("../Images/Miura 1975/IMG_2777.jpg"),
+        "assets/Images/Miura/Miura 1975/IMG_2762.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2763.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2764.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2765.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2766.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2767.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2768.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2769.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2770.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2771.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2772.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2773.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2774.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2775.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2776.JPG",
+        "assets/Images/Miura/Miura 1975/IMG_2777.JPG",
 
     ],
     technicalData: {
@@ -54,7 +54,7 @@ export default {
             "Calendar": "Day/Date display around the inner bezel"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard buckle",
             "Width": "22 mm",
@@ -69,10 +69,10 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Miura 1975/mov1.png"),
-                require("../Images/Miura 1975/mov2.png"),
-                require("../Images/Miura 1975/mov3.png"),
-                require("../Images/Miura 1975/mov4.png"),
+                "assets/Images/Miura/Miura 1975/mov1.PNG",
+                "assets/Images/Miura/Miura 1975/mov2.PNG",
+                "assets/Images/Miura/Miura 1975/mov3.PNG",
+                "assets/Images/Miura/Miura 1975/mov4.PNG",
 
             ],
             "Details": {

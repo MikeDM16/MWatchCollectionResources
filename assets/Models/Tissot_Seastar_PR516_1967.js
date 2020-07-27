@@ -1,25 +1,25 @@
 export default {
     title: "Tissot Seastar PR 516 1967",
     sliderImages: [
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0572.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0573.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0574.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0575.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0576.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0577.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0578.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0579.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0580.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0581.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0582.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0583.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0584.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0585.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0586.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0587.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0588.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/IMG_0589.jpg"),
-        require("../Images/Tissot/Tissot_PR_516 1967/UEND1785.jpg"),
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0572.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0573.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0574.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0575.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0576.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0577.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0578.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0579.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0580.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0581.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0582.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0583.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0584.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0585.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0586.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0587.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0588.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/IMG_0589.JPG",
+        "assets/Images/Tissot/Tissot_PR_516 1967/UEND1785.JPG",
     ],
     technicalData: {
         Features: [
@@ -49,14 +49,14 @@ export default {
         },
 
         Dial: {
-            "Color": "Gray",
+            "Color": "Grey",
             "Dial markers": "Sticks",
             "Finishing Details": "Subtle vertical brush",
             "Luminescent Indexes": "Hands (Tritium)",
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard buckle",
             "Width": "18 mm",
@@ -75,9 +75,9 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_PR_516 1967/tissot_782.1-1.png"),
-                require("../Images/Tissot/Tissot_PR_516 1967/tissot_782.1-2.png"),
-                require("../Images/Tissot/Tissot_PR_516 1967/tissot_782.1-3.png"),
+                "assets/Images/Tissot/Tissot_PR_516 1967/tissot_7821-1.PNG",
+                "assets/Images/Tissot/Tissot_PR_516 1967/tissot_7821-2.PNG",
+                "assets/Images/Tissot/Tissot_PR_516 1967/tissot_7821-3.PNG",
             ],
             "Details": {
                 "Manufacturer": "Tissot (Swiss Made)",

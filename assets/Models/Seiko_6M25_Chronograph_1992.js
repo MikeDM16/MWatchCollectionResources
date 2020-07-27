@@ -26,34 +26,34 @@ export default {
         ImageSliders: []
     },
     sliderImages: [
-        require("../Images/Seiko_6M25 1992/IMG_1819.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1820.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1821.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1822.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1823.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1824.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1825.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1826.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1827.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1828.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1829.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1830.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1831.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1832.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1833.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1834.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1835.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1836.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1837.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1838.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1839.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1840.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1841.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1842.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1843.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1844.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1845.jpg"),
-        require("../Images/Seiko_6M25 1992/IMG_1657.jpg"),
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1819.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1820.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1821.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1822.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1823.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1824.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1825.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1826.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1827.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1828.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1829.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1830.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1831.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1832.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1833.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1834.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1835.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1836.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1837.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1838.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1839.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1840.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1841.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1842.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1843.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1844.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1845.JPG",
+        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1657.JPG",
     ],
     technicalData: {
         Features: [
@@ -93,11 +93,11 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "Two tone SS links bracelet",
+        Bracelet: {
+            "Material": "Two tone SS Links Bracelet",
             "Buckle": "Seiko folding clasp",
             "Width": "20 mm",
-            "Color": "Grey with gold details"
+            "Color": "Two tone: Grey with Gold details"
         },
 
         Movement: {
@@ -108,7 +108,7 @@ export default {
                 "Seiko 6M25 Parts Catalogue": "../Files/1623_Seiko6M25A.pdf",
             },
             "sliderImages": [
-                require("../Images/Seiko_6M25 1992/6M25-cal.jpg")
+                "assets/Images/Seiko/Seiko_6M25 1992/6M25-cal.JPG"
             ],
             "Details": {
                 "Manufacturer": "Seiko",

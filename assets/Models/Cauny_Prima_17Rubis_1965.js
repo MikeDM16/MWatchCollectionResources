@@ -31,37 +31,37 @@ export default {
 
             "Independent of the variation and functions, it has a height of only 3mm, making it really unique when concerning the height.",
         ImageSliders: [
-            require("../Images/Cauny/CaunyModels/m1 (1).jpg"),
-            require("../Images/Cauny/CaunyModels/m1 (2).jpg"),
-            require("../Images/Cauny/CaunyModels/m1 (3).jpg"),
-            require("../Images/Cauny/CaunyModels/m2 (2).jpg"),
-            require("../Images/Cauny/CaunyModels/m2 (3).jpg"),
-            require("../Images/Cauny/CaunyModels/m2 (1).jpg"),
-            require("../Images/Cauny/CaunyModels/cauny210.jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (5).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (4).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (1).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (2).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (3).jpg"),
-            require("../Images/Cauny/CaunyModels/chrono (1).jpg"),
-            require("../Images/Cauny/CaunyModels/chrono (3).jpg"),
-            require("../Images/Cauny/CaunyModels/chrono (2).jpg"),
+            "assets/Images/Cauny/CaunyModels/m1 (1).JPG",
+            "assets/Images/Cauny/CaunyModels/m1 (2).JPG",
+            "assets/Images/Cauny/CaunyModels/m1 (3).JPG",
+            "assets/Images/Cauny/CaunyModels/m2 (2).JPG",
+            "assets/Images/Cauny/CaunyModels/m2 (3).JPG",
+            "assets/Images/Cauny/CaunyModels/m2 (1).JPG",
+            "assets/Images/Cauny/CaunyModels/cauny210.JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (5).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (4).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (1).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (2).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (3).JPG",
+            "assets/Images/Cauny/CaunyModels/chrono (1).JPG",
+            "assets/Images/Cauny/CaunyModels/chrono (3).JPG",
+            "assets/Images/Cauny/CaunyModels/chrono (2).JPG",
         ]
     },
     sliderImages: [
-        require("../Images/Cauny/CaunyPrima/IMG_2103.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_1849.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_1850.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_2104.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_2105.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_2106.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_2107.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_2108.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_2109.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_2110.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_2111.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_2112.jpg"),
-        require("../Images/Cauny/CaunyPrima/IMG_2113.jpg"),
+        "assets/Images/Cauny/CaunyPrima/IMG_2103.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_1849.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_1850.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_2104.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_2105.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_2106.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_2107.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_2108.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_2109.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_2110.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_2111.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_2112.JPG",
+        "assets/Images/Cauny/CaunyPrima/IMG_2113.JPG",
 
     ],
     technicalData: {
@@ -94,13 +94,13 @@ export default {
 
         Dial: {
             "Color": "Champagne",
-            "Dial markers": "Arabic and sticks",
+            "Dial markers": "Arabic and Sticks",
             "Finishing Details": "Radial brushed effect",
             "Luminescent Indexes": "Hands and markers (Tritium)",
-            "Calendar": "Without calendar"
+            "Calendar": "without Calendar"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard Buckle",
             "Width": "20 mm",
@@ -115,9 +115,9 @@ export default {
                 "AS 1950 Parts Catalogue": "../Files/AS_1951.pdf"
             },
             "sliderImages": [
-                require("../Images/Cauny/CaunyPrima/mov (1).jpg"),
-                require("../Images/Cauny/CaunyPrima/mov (2).jpg"),
-                require("../Images/Cauny/CaunyPrima/mov (3).jpg"),
+                "assets/Images/Cauny/CaunyPrima/mov (1).JPG",
+                "assets/Images/Cauny/CaunyPrima/mov (2).JPG",
+                "assets/Images/Cauny/CaunyPrima/mov (3).JPG",
             ],
             "Details": {
                 "Manufacturer": "Adolf Schild [AS]",

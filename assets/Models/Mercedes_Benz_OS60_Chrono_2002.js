@@ -1,24 +1,24 @@
 export default {
     title: "Mercedes Benz Chronograph 2002",
     sliderImages: [
-        require("../Images/Mercedes_Chrono_OS60/IMG_0475.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0476.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0477.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0478.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0479.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0480.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0481.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0482.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0483.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0484.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0485.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0486.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0487.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0488.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0489.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0490.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0491.jpg"),
-        require("../Images/Mercedes_Chrono_OS60/IMG_0493.jpg"),
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0475.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0476.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0477.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0478.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0479.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0480.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0481.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0482.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0483.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0484.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0485.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0486.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0487.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0488.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0489.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0490.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0491.JPG",
+        "assets/Images/Mercedes/Mercedes_Chrono_OS60/IMG_0493.JPG",
     ],
     technicalData: {
         Features: [
@@ -50,14 +50,14 @@ export default {
         },
 
         Dial: {
-            "Color": "Dark Gray",
+            "Color": "Dark Grey",
             "Dial markers": "Sticks",
             "Finishing Details": "Detailed sub-dials",
             "Luminescent Indexes": "Hands and markers (Luminova)",
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard buckle",
             "Width": "20 mm",
@@ -71,8 +71,8 @@ export default {
                 "Instruction Manual from Miyota": "../Files/0s60.pdf",
             },
             "sliderImages": [
-                require("../Images/Mercedes_Chrono_OS60/os60-1.jpg"),
-                require("../Images/Mercedes_Chrono_OS60/os60-2.jpg"),
+                "assets/Images/Mercedes/Mercedes_Chrono_OS60/os60-1.JPG",
+                "assets/Images/Mercedes/Mercedes_Chrono_OS60/os60-2.JPG",
             ],
             "Details": {
                 "Manufacturer": "Miyota (Citizen)",

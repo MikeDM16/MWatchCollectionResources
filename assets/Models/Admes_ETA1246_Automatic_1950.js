@@ -1,30 +1,30 @@
 export default {
     title: "Admes ETA 1246 Automatic 1950",
     sliderImages: [
-        require("../Images/Admes_Automatic/IMG_1439.jpg"),
-        require("../Images/Admes_Automatic/IMG_1440.jpg"),
-        require("../Images/Admes_Automatic/IMG_1441.jpg"),
-        require("../Images/Admes_Automatic/IMG_1442.jpg"),
-        require("../Images/Admes_Automatic/IMG_1443.jpg"),
-        require("../Images/Admes_Automatic/IMG_1444.jpg"),
-        require("../Images/Admes_Automatic/IMG_1445.jpg"),
-        require("../Images/Admes_Automatic/IMG_1446.jpg"),
-        require("../Images/Admes_Automatic/IMG_1447.jpg"),
-        require("../Images/Admes_Automatic/IMG_1448.jpg"),
-        require("../Images/Admes_Automatic/IMG_1449.jpg"),
-        require("../Images/Admes_Automatic/IMG_1450.jpg"),
-        require("../Images/Admes_Automatic/IMG_1451.jpg"),
-        require("../Images/Admes_Automatic/IMG_1452.jpg"),
-        require("../Images/Admes_Automatic/IMG_1453.jpg"),
-        require("../Images/Admes_Automatic/IMG_1454.jpg"),
-        require("../Images/Admes_Automatic/IMG_1455.jpg"),
-        require("../Images/Admes_Automatic/IMG_1456.jpg"),
-        require("../Images/Admes_Automatic/IMG_1457.jpg"),
-        require("../Images/Admes_Automatic/IMG_1458.jpg"),
-        require("../Images/Admes_Automatic/IMG_1464.jpg"),
-        require("../Images/Admes_Automatic/MBBK4227.jpg"),
-        require("../Images/Admes_Automatic/QPFF1676.jpg"),
-        require("../Images/Admes_Automatic/YGIF5008.jpg"),
+        "assets/Images/Admes/Admes_Automatic/IMG_1439.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1440.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1441.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1442.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1443.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1444.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1445.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1446.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1447.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1448.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1449.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1450.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1451.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1452.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1453.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1454.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1455.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1456.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1457.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1458.JPG",
+        "assets/Images/Admes/Admes_Automatic/IMG_1464.JPG",
+        "assets/Images/Admes/Admes_Automatic/MBBK4227.JPG",
+        "assets/Images/Admes/Admes_Automatic/QPFF1676.JPG",
+        "assets/Images/Admes/Admes_Automatic/YGIF5008.JPG",
 
     ], technicalData: {
         Features: [
@@ -56,14 +56,14 @@ export default {
 
         Dial: {
             "Color": "White",
-            "Dial markers": "Romam and sticks",
+            "Dial markers": "Arabic and Sticks",
             "Finishing Details": "Applyed indexes",
             "Luminescent Indexes": "None",
-            "Calendar": "Without calendar"
+            "Calendar": "without Calendar"
         },
 
-        Strap: {
-            "Material": "Crocodile leather",
+        Bracelet: {
+            "Material": "Crocodile Leather",
             "Buckle": "Standard buckle",
             "Width": "18 mm",
             "Color": "Dark Brown"
@@ -80,11 +80,11 @@ export default {
                 "Vintage technical Information from ETA": "../Files/3394_ETA 1256.pdf"
             },
             "sliderImages": [
-                require("../Images/Admes_Automatic/mov5.jpg"),
-                require("../Images/Admes_Automatic/mov6.jpg"),
-                require("../Images/Admes_Automatic/mov1.png"),
-                require("../Images/Admes_Automatic/mov2.png"),
-                require("../Images/Admes_Automatic/mov3.jpg"),
+                "assets/Images/Admes/Admes_Automatic/mov5.JPG",
+                "assets/Images/Admes/Admes_Automatic/mov6.JPG",
+                "assets/Images/Admes/Admes_Automatic/mov1.PNG",
+                "assets/Images/Admes/Admes_Automatic/mov2.PNG",
+                "assets/Images/Admes/Admes_Automatic/mov3.JPG",
             ],
             "Details": {
                 "Manufacturer": "ETA",

@@ -32,36 +32,36 @@ export default {
 
             "Independent of the variation and functions, it has a height of only 3mm, making it really unique when concerning the height.",
         ImageSliders: [
-            require("../Images/Cauny/CaunyModels/m1 (1).jpg"),
-            require("../Images/Cauny/CaunyModels/m1 (2).jpg"),
-            require("../Images/Cauny/CaunyModels/m1 (3).jpg"),
-            require("../Images/Cauny/CaunyModels/m2 (2).jpg"),
-            require("../Images/Cauny/CaunyModels/m2 (3).jpg"),
-            require("../Images/Cauny/CaunyModels/m2 (1).jpg"),
-            require("../Images/Cauny/CaunyModels/cauny210.jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (5).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (4).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (1).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (2).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (3).jpg"),
-            require("../Images/Cauny/CaunyModels/chrono (1).jpg"),
-            require("../Images/Cauny/CaunyModels/chrono (3).jpg"),
-            require("../Images/Cauny/CaunyModels/chrono (2).jpg"),
+            "assets/Images/Cauny/CaunyModels/m1 (1).JPG",
+            "assets/Images/Cauny/CaunyModels/m1 (2).JPG",
+            "assets/Images/Cauny/CaunyModels/m1 (3).JPG",
+            "assets/Images/Cauny/CaunyModels/m2 (2).JPG",
+            "assets/Images/Cauny/CaunyModels/m2 (3).JPG",
+            "assets/Images/Cauny/CaunyModels/m2 (1).JPG",
+            "assets/Images/Cauny/CaunyModels/cauny210.JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (5).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (4).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (1).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (2).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (3).JPG",
+            "assets/Images/Cauny/CaunyModels/chrono (1).JPG",
+            "assets/Images/Cauny/CaunyModels/chrono (3).JPG",
+            "assets/Images/Cauny/CaunyModels/chrono (2).JPG",
         ]
     },
     sliderImages: [
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2266.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2268.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2270.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2271.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2272.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2274.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2275.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2279.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2291.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2295.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2393.jpg"),
-        require("../Images/Cauny/CaunyDeLuxe/IMG_2487.jpg"),
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2266.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2268.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2270.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2271.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2272.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2274.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2275.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2279.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2291.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2295.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2393.JPG",
+        "assets/Images/Cauny/CaunyDeLuxe/IMG_2487.JPG",
 
     ],
     technicalData: {
@@ -93,13 +93,13 @@ export default {
 
         Dial: {
             "Color": "Champagne (Aged)",
-            "Dial markers": "Arabic and sticks",
+            "Dial markers": "Arabic and Sticks",
             "Finishing Details": "Radial Shine effect",
             "Luminescent Indexes": "None",
-            "Calendar": "Without calendar"
+            "Calendar": "without Calendar"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard Buckle",
             "Width": "18 mm",
@@ -114,9 +114,9 @@ export default {
                 "FEF 290Parts Catalogue": "../Files/2731_FEF 290 310.pdf",
             },
             "sliderImages": [
-                require("../Images/Cauny/CaunyDeLuxe/mov1.jpg"),
-                require("../Images/Cauny/CaunyDeLuxe/mov2.jpg"),
-                require("../Images/Cauny/CaunyDeLuxe/mov3.jpg"),
+                "assets/Images/Cauny/CaunyDeLuxe/mov1.JPG",
+                "assets/Images/Cauny/CaunyDeLuxe/mov2.JPG",
+                "assets/Images/Cauny/CaunyDeLuxe/mov3.JPG",
             ],
             "Details": {
                 "Manufacturer": "FEF (Swiss Made)",

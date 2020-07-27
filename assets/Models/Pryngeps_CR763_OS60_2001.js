@@ -1,25 +1,25 @@
 export default {
     title: "Pryngeps CR763 Chronograph 2001",
     sliderImages: [
-        require("../Images/Pryngeps_CR763/IMG_3224.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3225.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3226.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3227.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3228.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3229.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3230.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3231.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3232.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3233.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3234.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3235.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3236.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3237.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3238.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3239.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3240.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3280.jpg"),
-        require("../Images/Pryngeps_CR763/IMG_3281.jpg"),
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3224.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3225.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3226.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3227.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3228.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3229.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3230.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3231.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3232.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3233.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3234.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3235.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3236.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3237.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3238.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3239.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3240.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3280.JPG",
+        "assets/Images/Pryngeps/Pryngeps_CR763/IMG_3281.JPG",
     ],
     technicalData: {
         Features: [
@@ -58,7 +58,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard buckle",
             "Width": "20 mm",
@@ -72,8 +72,8 @@ export default {
                 "Instruction Manual from Miyota": "../Files/0s60.pdf",
             },
             "sliderImages": [
-                require("../Images/Emes_Chrono_OS60/os60-1.jpg"),
-                require("../Images/Emes_Chrono_OS60/os60-2.jpg")
+                "assets/Images/Pryngeps/Pryngeps_CR763/os60-1.JPG",
+                "assets/Images/Pryngeps/Pryngeps_CR763/os60-2.JPG",
             ],
             "Details": {
                 "Manufacturer": "Miyota (Citizen)",

@@ -1,24 +1,24 @@
 export default {
     title: "Pryngeps Automatic Chronograph Valjoux 7750 1975",
     sliderImages: [
-        require("../Images/Pryngeps 7750/IMG_1690.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1691.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1692.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1693.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1694.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1695.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1696.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1697.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1698.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1699.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1700.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1701.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1704.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1705.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1706.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1707.jpg"),
-        require("../Images/Pryngeps 7750/IMG_1708.jpg"),
-        require("../Images/Pryngeps 7750/SJJG5513.jpg"),
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1690.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1691.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1692.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1693.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1694.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1695.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1696.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1697.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1698.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1699.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1700.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1701.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1704.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1705.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1706.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1707.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/IMG_1708.JPG",
+        "assets/Images/Pryngeps/Pryngeps 7750/SJJG5513.JPG",
     ],
     technicalData: {
         Features: [
@@ -59,7 +59,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Crocodile Leather",
             "Buckle": "Pryngeps Gold plated",
             "Width": "20 mm",
@@ -74,10 +74,10 @@ export default {
                 "Instruction Manual from ETA": "../Files/3660_Valjoux7750operatinginstructions.pdf",
             },
             "sliderImages": [
-                require("../Images/Pryngeps 7750/7750_1.jpg"),
-                require("../Images/Pryngeps 7750/7750_2.jpg"),
-                require("../Images/Pryngeps 7750/7750_3.jpg"),
-                require("../Images/Pryngeps 7750/7750_4.jpg"),
+                "assets/Images/Pryngeps/Pryngeps 7750/7750_1.JPG",
+                "assets/Images/Pryngeps/Pryngeps 7750/7750_2.JPG",
+                "assets/Images/Pryngeps/Pryngeps 7750/7750_3.JPG",
+                "assets/Images/Pryngeps/Pryngeps 7750/7750_4.JPG",
             ],
             "Details": {
                 "Manufacturer": "Valjoux",

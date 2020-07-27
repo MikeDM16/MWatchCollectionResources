@@ -1,31 +1,31 @@
 export default {
     title: "Tissot Seastar PR 516 GL 1971",
     sliderImages: [
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1856.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1857.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1858.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1859.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1860.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1861.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1862.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1863.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1864.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1865.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1866.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1867.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1868.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1869.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1870.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1871.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1872.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1873.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1874.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1875.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1876.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1880.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/IMG_1881.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/CEM4521.jpg"),
-        require("../Images/Tissot/Tissot_PR_516_GL_1971/WKON1693.jpg"),
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1856.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1857.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1858.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1859.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1860.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1861.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1862.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1863.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1864.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1865.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1866.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1867.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1868.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1869.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1870.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1871.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1872.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1873.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1874.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1875.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1876.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1880.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/IMG_1881.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/CEM4521.JPG",
+        "assets/Images/Tissot/Tissot_PR_516_GL_1971/WKON1693.JPG",
     ],
     technicalData: {
         Features: [
@@ -62,11 +62,11 @@ export default {
             "Calendar": "Day/Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "Integrated SS links bracelet",
+        Bracelet: {
+            "Material": "Integrated SS Links Bracelet",
             "Buckle": "Folding clasp",
             "Width": "25 mm",
-            "Color": "Gray"
+            "Color": "Grey"
         },
 
         Movement: {
@@ -81,9 +81,9 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_PR_516_GL_1971/mov1.jpg"),
-                require("../Images/Tissot/Tissot_PR_516_GL_1971/mov2.jpg"),
-                require("../Images/Tissot/Tissot_PR_516_GL_1971/mov3.jpg"),
+                "assets/Images/Tissot/Tissot_PR_516_GL_1971/mov1.JPG",
+                "assets/Images/Tissot/Tissot_PR_516_GL_1971/mov2.JPG",
+                "assets/Images/Tissot/Tissot_PR_516_GL_1971/mov3.JPG",
             ],
             "Details": {
                 "Manufacturer": "Tissot (Swiss Made)",

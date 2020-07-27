@@ -51,25 +51,25 @@ export default {
     },
 
     sliderImages: [
-        require("../Images/Timex_Marlin_1980/IMG_1928.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1929.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1930.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1931.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1932.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1933.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1934.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1935.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1936.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1937.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1938.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1939.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1940.jpg"),
-        require("../Images/Timex_Marlin_1980/IMG_1941.jpg"),
-        require("../Images/Timex_Marlin_1980/SAOK3953.jpg"),
-        require("../Images/Timex_Marlin_1980/timex_1.jpg"),
-        require("../Images/Timex_Marlin_1980/timex_2.jpg"),
-        require("../Images/Timex_Marlin_1980/timex_3.jpg"),
-        require("../Images/Timex_Marlin_1980/caravelle_LIFE_13_dec_1968.jpg"),
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1928.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1929.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1930.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1931.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1932.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1933.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1934.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1935.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1936.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1937.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1938.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1939.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1940.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/IMG_1941.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/SAOK3953.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/timex_1.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/timex_2.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/timex_3.JPG",
+        "assets/Images/Timex/Timex_Marlin_1980/caravelle_LIFE_13_dec_1968.JPG",
 
     ],
     technicalData: {
@@ -104,10 +104,10 @@ export default {
             "Dial markers": "Arabic",
             "Finishing Details": "Radial brushed effect",
             "Luminescent Indexes": "None",
-            "Calendar": "Without calendar"
+            "Calendar": "without Calendar"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard buckle",
             "Width": "18 mm",
@@ -122,7 +122,7 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Timex_Marlin_1980/Timex_M100.jpg")
+                "assets/Images/Timex/Timex_Marlin_1980/Timex_M100.JPG"
             ],
             "Details": {
                 "Manufacturer": "Timex",

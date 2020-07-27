@@ -1,28 +1,28 @@
 export default {
     title: "Fontaine ETA 2472 Automatic 1965 ",
     sliderImages: [
-        require("../Images/Fontaine_Auto/IMG_4701.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4702.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4703.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4704.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4705.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4706.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4707.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4708.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4709.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4710.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4711.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4712.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4713.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4714.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4715.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4716.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4717.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4718.jpg"),
-        require("../Images/Fontaine_Auto/FDZA4803.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4696.jpg"),
-        require("../Images/Fontaine_Auto/IMG_4697.jpg"),
-        require("../Images/Fontaine_Auto/XCIZ2978.jpg"),
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4701.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4702.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4703.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4704.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4705.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4706.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4707.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4708.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4709.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4710.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4711.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4712.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4713.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4714.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4715.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4716.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4717.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4718.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/FDZA4803.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4696.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/IMG_4697.JPG",
+        "assets/Images/Fontaine/Fontaine_Auto/XCIZ2978.JPG",
 
     ],
     technicalData: {
@@ -61,8 +61,8 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "Lizzard skin leather",
+        Bracelet: {
+            "Material": "Lizard skin Leather",
             "Buckle": "Standard Buckle",
             "Width": "18 mm",
             "Color": "Brown"
@@ -77,10 +77,10 @@ export default {
                 "Vintage technical information from ETA": "../Files/3394_ETA 1256.pdf"
             },
             "sliderImages": [
-                require("../Images/Fontaine_Auto/ETA_2472_1.png"),
-                require("../Images/Fontaine_Auto/ETA_2472_2.png"),
-                require("../Images/Fontaine_Auto/ETA_2472_3.png"),
-                require("../Images/Fontaine_Auto/ETA_2472_4.png"),
+                "assets/Images/Fontaine/Fontaine_Auto/ETA_2472_1.PNG",
+                "assets/Images/Fontaine/Fontaine_Auto/ETA_2472_2.PNG",
+                "assets/Images/Fontaine/Fontaine_Auto/ETA_2472_3.PNG",
+                "assets/Images/Fontaine/Fontaine_Auto/ETA_2472_4.PNG",
             ],
             "Details": {
                 "Manufacturer": "ETA",

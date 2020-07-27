@@ -2,30 +2,30 @@ export default {
     title: "Greenwich Premier Chronograph 1995",
 
     sliderImages: [
-        require("../Images/Greenwich_Premier/IMG_1749.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1750.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1751.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1752.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1754.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1755.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1756.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1757.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1758.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1759.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1760.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1761.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1768.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1769.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1770.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1771.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1772.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1773.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1774.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1775.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1779.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1780.jpg"),
-        require("../Images/Greenwich_Premier/IMG_1781.jpg"),
-        require("../Images/Greenwich_Premier/RTET3968.jpg"),
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1749.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1750.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1751.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1752.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1754.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1755.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1756.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1757.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1758.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1759.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1760.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1761.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1768.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1769.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1770.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1771.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1772.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1773.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1774.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1775.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1779.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1780.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/IMG_1781.JPG",
+        "assets/Images/Greenwich/Greenwich_Premier/RTET3968.JPG",
     ],
     technicalData: {
         Features: [
@@ -65,7 +65,7 @@ export default {
             "Calendar": "Date display at 4 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Butterfly deploy clasp",
             "Width": "20 mm",
@@ -84,10 +84,10 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Greenwich_Premier/eta251-272.jpg"),
-                require("../Images/Greenwich_Premier/eta251-272.png"),
-                require("../Images/Greenwich_Premier/eta251-272-2.jpg"),
-                require("../Images/Greenwich_Premier/eta251-272-3.jpg"),
+                "assets/Images/Greenwich/Greenwich_Premier/eta251-272.JPG",
+                "assets/Images/Greenwich/Greenwich_Premier/eta251-272.PNG",
+                "assets/Images/Greenwich/Greenwich_Premier/eta251-272-2.JPG",
+                "assets/Images/Greenwich/Greenwich_Premier/eta251-272-3.JPG",
             ],
 
             "Details": {

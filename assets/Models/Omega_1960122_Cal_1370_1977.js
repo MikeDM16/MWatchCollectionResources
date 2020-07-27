@@ -1,29 +1,29 @@
 export default {
     title: "Omega 196.0122 Cal. 1370 1977",
     sliderImages: [
-        require("../Images/Omega/Omega_1960122_1977/IMG_0222.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0223.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0224.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0225.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0226.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0227.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0228.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0229.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0230.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0231.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0233.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0234.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0235.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0236.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0237.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0238.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0239.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0240.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0241.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0242.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0243.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0244.jpg"),
-        require("../Images/Omega/Omega_1960122_1977/IMG_0245.jpg"),
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0222.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0223.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0224.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0225.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0226.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0227.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0228.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0229.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0230.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0231.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0233.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0234.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0235.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0236.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0237.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0238.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0239.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0240.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0241.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0242.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0243.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0244.JPG",
+        "assets/Images/Omega/Omega_1960122_1977/IMG_0245.JPG",
     ],
 
     technicalData: {
@@ -61,7 +61,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Aftermarket buckle",
             "Width": "18 mm",
@@ -82,8 +82,8 @@ export default {
                 "Technical Information from Omega": "../Files/omega_1370_parts.pdf",
             },
             "sliderImages": [
-                require("../Images/Omega/Omega_1960122_1977/omega_1370_1.png"),
-                require("../Images/Omega/Omega_1960122_1977/omega_1370_2.png")
+                "assets/Images/Omega/Omega_1960122_1977/omega_1370_1.PNG",
+                "assets/Images/Omega/Omega_1960122_1977/omega_1370_2.PNG",
             ],
             "Details": {
                 "Manufacturer": "Omega",

@@ -1,37 +1,37 @@
 export default {
     title: "Omega De Ville 191.0077 Cal. 1365 1982",
     sliderImages: [
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2177.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2178.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2179.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2180.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2181.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2182.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2183.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2184.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2186.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2187.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2188.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2189.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2190.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2191.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/IMG_2192.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/omega_vintage_1.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/omega_vintage_2.jpg"),
-        require("../Images/Omega/Omega_1910077_DeVille_1982/omega_vintage_3.jpg"),
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2177.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2178.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2179.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2180.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2181.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2182.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2183.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2184.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2186.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2187.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2188.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2189.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2190.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2191.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/IMG_2192.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/omega_vintage_1.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/omega_vintage_2.JPG",
+        "assets/Images/Omega/Omega_1910077_DeVille_1982/omega_vintage_3.JPG",
     ],
     technicalData: {
         Features: [
             "Date",
             "Water Resistant",
-            "14K Gold Plated"
+            "14K Gold Plated 20 \u339B"
         ],
 
         Information: {
             "Brand": "Omega",
             "Series": "Classic De Ville Series",
-            "Catalogue Reference": "196.0077",
-            "Prodution Year": "1982",
+            "Catalogue Reference": "191.0077",
+            "Prodution Year": "1979 -1984 (1982)",
             "Movement": "Quartz",
             "Style": "Dress Watch"
         },
@@ -50,13 +50,13 @@ export default {
 
         Dial: {
             "Color": "White",
-            "Dial markers": "Roman and sticks",
+            "Dial markers": "Roman and Sticks",
             "Finishing Details": "-",
             "Luminescent Indexes": "None",
-            "Calendar": "Without Calendar"
+            "Calendar": "without Calendar"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Aftermarket buckle",
             "Width": "18 mm",
@@ -75,8 +75,8 @@ export default {
                 "Omega Vintage Catalogue": "https://www.omegawatches.com/pt/watch-omega-de-ville-classic-dv-md-191-0077",
             },
             "sliderImages": [
-                require("../Images/Omega/Omega_1910077_DeVille_1982/omega_1365_1.png"),
-                require("../Images/Omega/Omega_1910077_DeVille_1982/omega_1365_2.png")
+                "assets/Images/Omega/Omega_1910077_DeVille_1982/omega_1365_1.PNG",
+                "assets/Images/Omega/Omega_1910077_DeVille_1982/omega_1365_2.PNG",
             ],
             "Details": {
                 "Manufacturer": "Omega",

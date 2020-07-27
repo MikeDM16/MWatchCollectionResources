@@ -1,30 +1,30 @@
 export default {
     title: "Tissot Ballade Seastar 1995",
     sliderImages: [
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1043.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1044.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1045.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1046.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1049.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1050.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1051.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/KOJC0577.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1052.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1053.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1054.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1055.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1056.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1059.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1060.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1061.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1062.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1063.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1064.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1065.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1066.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1067.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1070.jpg"),
-        require("../Images/Tissot/Tissot_Seastar 1995/IMG_1071.jpg"),
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1043.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1044.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1045.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1046.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1049.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1050.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1051.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/KOJC0577.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1052.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1053.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1054.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1055.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1056.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1059.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1060.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1061.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1062.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1063.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1064.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1065.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1066.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1067.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1070.JPG",
+        "assets/Images/Tissot/Tissot_Seastar 1995/IMG_1071.JPG",
     ],
     technicalData: {
         Features: [
@@ -54,17 +54,17 @@ export default {
 
         Dial: {
             "Color": "White",
-            "Dial markers": "Roman and sticks",
+            "Dial markers": "Arabic and Sticks",
             "Finishing Details": "Radial web effect",
             "Luminescent Indexes": "None",
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "SS Links bracelet",
+        Bracelet: {
+            "Material": "SS Links Bracelet",
             "Buckle": "Tissot Folding clasp",
             "Width": "19 mm",
-            "Color": "Silver with gold details"
+            "Color": "Two tone: Grey with Gold details"
         },
 
         Movement: {
@@ -75,7 +75,7 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_Seastar 1995/mov1.jpg"),
+                "assets/Images/Tissot/Tissot_Seastar 1995/mov1.JPG",
             ],
             "Details": {
                 "Manufacturer": "ETA",

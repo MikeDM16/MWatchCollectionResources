@@ -1,22 +1,22 @@
 export default {
     title: "Emes OS60 Chronograph 2005",
     sliderImages: [
-        require("../Images/Emes_Chrono_OS60/IMG_2098.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2099.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2101.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2102.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2103.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2104.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2105.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2106.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2107.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2108.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2109.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2110.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2111.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2112.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2113.jpg"),
-        require("../Images/Emes_Chrono_OS60/IMG_2114.jpg"),
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2098.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2099.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2101.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2102.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2103.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2104.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2105.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2106.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2107.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2108.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2109.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2110.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2111.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2112.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2113.JPG",
+        "assets/Images/Emes/Emes_Chrono_OS60/IMG_2114.JPG",
 
     ],
     technicalData: {
@@ -49,18 +49,18 @@ export default {
         },
 
         Dial: {
-            "Color": "Dark Gray",
+            "Color": "Dark Grey",
             "Dial markers": "Arabic",
             "Finishing Details": "-",
             "Luminescent Indexes": "Numbers around the dial",
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "SS Links bracelet",
+        Bracelet: {
+            "Material": "SS Links Bracelet",
             "Buckle": "Folding clasp",
             "Width": "19 mm",
-            "Color": "Matte gray"
+            "Color": "Matte Grey"
         },
 
         Movement: {
@@ -70,8 +70,8 @@ export default {
                 "Instruction Manual from Miyota": "../Files/0s60.pdf",
             },
             "sliderImages": [
-                require("../Images/Emes_Chrono_OS60/os60-1.jpg"),
-                require("../Images/Emes_Chrono_OS60/os60-2.jpg"),
+                "assets/Images/Emes/Emes_Chrono_OS60/os60-1.JPG",
+                "assets/Images/Emes/Emes_Chrono_OS60/os60-2.JPG",
             ],
             "Details": {
                 "Manufacturer": "Miyota (Citizen)",

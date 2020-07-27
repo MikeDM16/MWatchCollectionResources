@@ -1,23 +1,23 @@
 export default {
     title: "Tissot Sports E662/762M 2000",
     sliderImages: [
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0498.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0499.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0500.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0501.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0502.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0503.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0504.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0505.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0506.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0507.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0508.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0509.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0510.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0511.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/IMG_0512.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/back1.jpg"),
-        require("../Images/Tissot/Tissot_Sport_Chrono/back2.jpg"),
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0498.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0499.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0500.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0501.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0502.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0503.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0504.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0505.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0506.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0507.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0508.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0509.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0510.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0511.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/IMG_0512.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/back1.JPG",
+        "assets/Images/Tissot/Tissot_Sport_Chrono/back2.JPG",
     ],
     technicalData: {
         Features: [
@@ -55,7 +55,7 @@ export default {
             "Calendar": "Date display at 4 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Folding clasp",
             "Width": "20 mm",
@@ -74,10 +74,10 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_Sport_Chrono/eta-caliber-g10-211-3.jpg"),
-                require("../Images/Tissot/Tissot_Sport_Chrono/eta-caliber-g10-211-4.jpg"),
-                require("../Images/Tissot/Tissot_Sport_Chrono/eta-caliber-g10-211.jpg"),
-                require("../Images/Tissot/Tissot_Sport_Chrono/eta-caliber-g10-211-2.jpg"),
+                "assets/Images/Tissot/Tissot_Sport_Chrono/eta-caliber-g10-211-3.JPG",
+                "assets/Images/Tissot/Tissot_Sport_Chrono/eta-caliber-g10-211-4.JPG",
+                "assets/Images/Tissot/Tissot_Sport_Chrono/eta-caliber-g10-211.JPG",
+                "assets/Images/Tissot/Tissot_Sport_Chrono/eta-caliber-g10-211-2.JPG",
             ],
 
             "Details": {

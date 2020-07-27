@@ -1,23 +1,23 @@
 export default {
     title: "One Voyager Chronograph 2014",
     sliderImages: [
-        require("../Images/One_Voyager/IMG_3158.jpg"),
-        require("../Images/One_Voyager/IMG_3159.jpg"),
-        require("../Images/One_Voyager/IMG_3160.jpg"),
-        require("../Images/One_Voyager/IMG_3162.jpg"),
-        require("../Images/One_Voyager/IMG_3163.jpg"),
-        require("../Images/One_Voyager/IMG_3164.jpg"),
-        require("../Images/One_Voyager/IMG_3165.jpg"),
-        require("../Images/One_Voyager/IMG_3166.jpg"),
-        require("../Images/One_Voyager/IMG_3167.jpg"),
-        require("../Images/One_Voyager/IMG_3168.jpg"),
-        require("../Images/One_Voyager/IMG_3169.jpg"),
-        require("../Images/One_Voyager/IMG_3170.jpg"),
-        require("../Images/One_Voyager/IMG_0391.jpg"),
-        require("../Images/One_Voyager/IMG_0392.jpg"),
-        require("../Images/One_Voyager/IMG_0393.jpg"),
-        require("../Images/One_Voyager/IMG_2118.jpg"),
-        require("../Images/One_Voyager/relogio-one-voyager-og2194vp81e-img-b.gif"),
+        "assets/Images/One/One_Voyager/IMG_3158.JPG",
+        "assets/Images/One/One_Voyager/IMG_3159.JPG",
+        "assets/Images/One/One_Voyager/IMG_3160.JPG",
+        "assets/Images/One/One_Voyager/IMG_3162.JPG",
+        "assets/Images/One/One_Voyager/IMG_3163.JPG",
+        "assets/Images/One/One_Voyager/IMG_3164.JPG",
+        "assets/Images/One/One_Voyager/IMG_3165.JPG",
+        "assets/Images/One/One_Voyager/IMG_3166.JPG",
+        "assets/Images/One/One_Voyager/IMG_3167.JPG",
+        "assets/Images/One/One_Voyager/IMG_3168.JPG",
+        "assets/Images/One/One_Voyager/IMG_3169.JPG",
+        "assets/Images/One/One_Voyager/IMG_3170.JPG",
+        "assets/Images/One/One_Voyager/IMG_0391.JPG",
+        "assets/Images/One/One_Voyager/IMG_0392.JPG",
+        "assets/Images/One/One_Voyager/IMG_0393.JPG",
+        "assets/Images/One/One_Voyager/IMG_2118.JPG",
+        "assets/Images/One/One_Voyager/relogio-one-voyager-og2194vp81e-img-b.PNG",
 
     ],
     technicalData: {
@@ -56,11 +56,11 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "Leather",
+        Bracelet: {
+            "Material": "Leather (Racing style)",
             "Buckle": "Folding Clasp",
             "Width": "22 mm",
-            "Color": "Black. Racing style"
+            "Color": "Black"
         },
 
         Movement: {
@@ -71,9 +71,9 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/One_Voyager/vd57_1.jpg"),
-                require("../Images/One_Voyager/vd57_2.jpg"),
-                require("../Images/One_Voyager/vd57_3.jpg"),
+                "assets/Images/One/One_Voyager/vd57_1.JPG",
+                "assets/Images/One/One_Voyager/vd57_2.JPG",
+                "assets/Images/One/One_Voyager/vd57_3.JPG",
 
             ],
 

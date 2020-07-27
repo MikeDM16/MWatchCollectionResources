@@ -1,21 +1,21 @@
 export default {
     title: "Omega Seamaster 196.0079 Cal. 1342 1977",
     sliderImages: [
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3984.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3985.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3986.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3987.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3988.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3989.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3990.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3991.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3992.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3993.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3994.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3995.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/IMG_3996.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/omega_site_1.jpg"),
-        require("../Images/Omega/Omega_1960079_Seamaster_1977/omega_site_2.jpg")
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3984.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3985.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3986.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3987.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3988.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3989.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3990.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3991.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3992.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3993.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3994.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3995.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/IMG_3996.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/omega_site_1.JPG",
+        "assets/Images/Omega/Omega_1960079_Seamaster_1977/omega_site_2.JPG",
     ],
     technicalData: {
         Features: [
@@ -52,7 +52,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Aftermarket buckle",
             "Width": "19 mm",
@@ -74,8 +74,8 @@ export default {
                 "Omega Vintage Catalogue": "https://www.omegawatches.com/watch-omega-seamaster-omega-st-196-0079",
             },
             "sliderImages": [
-                require("../Images/Omega/Omega_1960079_Seamaster_1977/omega_1342_1.png"),
-                require("../Images/Omega/Omega_1960079_Seamaster_1977/omega_1342_2.png")
+                "assets/Images/Omega/Omega_1960079_Seamaster_1977/omega_1342_1.PNG",
+                "assets/Images/Omega/Omega_1960079_Seamaster_1977/omega_1342_2.PNG",
             ],
             "Details": {
                 "Manufacturer": "Omega",

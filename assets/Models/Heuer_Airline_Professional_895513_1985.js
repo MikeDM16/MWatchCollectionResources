@@ -1,30 +1,30 @@
 export default {
     title: "Heuer Airline Professional 895.513 1985",
     sliderImages: [
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4003.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4004.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4005.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4006.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4007.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4008.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4009.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4010.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4011.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4012.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4013.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4014.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4015.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4016.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4017.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4018.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/IMG_4019.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_1.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_2.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_3.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_4.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_5.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_6.jpg"),
-        require("../Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_7.jpg")
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4003.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4004.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4005.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4006.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4007.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4008.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4009.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4010.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4011.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4012.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4013.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4014.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4015.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4016.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4017.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4018.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/IMG_4019.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_1.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_2.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_3.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_4.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_5.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_6.JPG",
+        "assets/Images/Tag_Heuer/Heuer_Airline_1985/Heuer_Catalogue_7.JPG",
     ],
     technicalData: {
         Features: [
@@ -48,7 +48,7 @@ export default {
             "Tickness": "9 mm",
             "Material": "Stainless Steel",
             "Water Resistance": "Waterproof up to 200 M / 666 feet",
-            "Finishing": "Mate",
+            "Finishing": "Matte",
             "Bezel": "Uni-directional, 5-minute graduated",
             "Crown": "Press-In",
             "Crystal": "Mineral",
@@ -59,15 +59,15 @@ export default {
             "Color": "Gold",
             "Dial markers": "Sticks",
             "Finishing Details": "-",
-            "Luminescent Indexes": "Hands and sticks (Tritium)",
+            "Luminescent Indexes": "Hands and Sticks (Tritium)",
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "SS links bracelet",
+        Bracelet: {
+            "Material": "SS Links Bracelet",
             "Buckle": "Heuer deploy clasp",
             "Width": "18 mm",
-            "Color": "Grey with Gold details"
+            "Color": "Two tone: Grey with Gold details"
         },
 
         Movement: {
@@ -79,7 +79,7 @@ export default {
                 "Heuer 1985-1986 Catalogue": "https://www.calibre11.com/catalogues/vintage-heuer-catalogues/1985-1986-catalogue/#1985-1986-catalogue-111"
             },
             "sliderImages": [
-                require("../Images/Tag_Heuer/Heuer_Airline_1985/ETA_955_414.jpg")
+                "assets/Images/Tag_Heuer/Heuer_Airline_1985/ETA_955_414.JPG",
             ],
             "Details": {
                 "Manufacturer": "ETA (Swiss Made)",

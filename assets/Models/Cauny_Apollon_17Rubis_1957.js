@@ -32,34 +32,34 @@ export default {
 
             "Independent of the variation and functions, it has a height of only 3mm, making it really unique when concerning the height.",
         ImageSliders: [
-            require("../Images/Cauny/CaunyModels/m1 (1).jpg"),
-            require("../Images/Cauny/CaunyModels/m1 (2).jpg"),
-            require("../Images/Cauny/CaunyModels/m1 (3).jpg"),
-            require("../Images/Cauny/CaunyModels/m2 (2).jpg"),
-            require("../Images/Cauny/CaunyModels/m2 (3).jpg"),
-            require("../Images/Cauny/CaunyModels/m2 (1).jpg"),
-            require("../Images/Cauny/CaunyModels/cauny210.jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (5).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (4).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (1).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (2).jpg"),
-            require("../Images/Cauny/CaunyModels/Cauny-Bicompax (3).jpg"),
-            require("../Images/Cauny/CaunyModels/chrono (1).jpg"),
-            require("../Images/Cauny/CaunyModels/chrono (3).jpg"),
-            require("../Images/Cauny/CaunyModels/chrono (2).jpg"),
+            "assets/Images/Cauny/CaunyModels/m1 (1).JPG",
+            "assets/Images/Cauny/CaunyModels/m1 (2).JPG",
+            "assets/Images/Cauny/CaunyModels/m1 (3).JPG",
+            "assets/Images/Cauny/CaunyModels/m2 (2).JPG",
+            "assets/Images/Cauny/CaunyModels/m2 (3).JPG",
+            "assets/Images/Cauny/CaunyModels/m2 (1).JPG",
+            "assets/Images/Cauny/CaunyModels/cauny210.JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (5).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (4).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (1).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (2).JPG",
+            "assets/Images/Cauny/CaunyModels/Cauny-Bicompax (3).JPG",
+            "assets/Images/Cauny/CaunyModels/chrono (1).JPG",
+            "assets/Images/Cauny/CaunyModels/chrono (3).JPG",
+            "assets/Images/Cauny/CaunyModels/chrono (2).JPG",
         ]
     },
     sliderImages: [
-        require("../Images/Cauny/CaunyApollon/IMG_1581.jpg"),
-        require("../Images/Cauny/CaunyApollon/IMG_1582.jpg"),
-        require("../Images/Cauny/CaunyApollon/IMG_1583.jpg"),
-        require("../Images/Cauny/CaunyApollon/IMG_1584.jpg"),
-        require("../Images/Cauny/CaunyApollon/IMG_1586.jpg"),
-        require("../Images/Cauny/CaunyApollon/IMG_1588.jpg"),
-        require("../Images/Cauny/CaunyApollon/IMG_1589.jpg"),
-        require("../Images/Cauny/CaunyApollon/IMG_1591.jpg"),
-        require("../Images/Cauny/CaunyApollon/IMG_1593.jpg"),
-        require("../Images/Cauny/CaunyApollon/IMG_1594.jpg"),
+        "assets/Images/Cauny/CaunyApollon/IMG_1581.JPG",
+        "assets/Images/Cauny/CaunyApollon/IMG_1582.JPG",
+        "assets/Images/Cauny/CaunyApollon/IMG_1583.JPG",
+        "assets/Images/Cauny/CaunyApollon/IMG_1584.JPG",
+        "assets/Images/Cauny/CaunyApollon/IMG_1586.JPG",
+        "assets/Images/Cauny/CaunyApollon/IMG_1588.JPG",
+        "assets/Images/Cauny/CaunyApollon/IMG_1589.JPG",
+        "assets/Images/Cauny/CaunyApollon/IMG_1591.JPG",
+        "assets/Images/Cauny/CaunyApollon/IMG_1593.JPG",
+        "assets/Images/Cauny/CaunyApollon/IMG_1594.JPG",
 
     ],
     technicalData: {
@@ -92,13 +92,13 @@ export default {
 
         Dial: {
             "Color": "Champagne",
-            "Dial markers": "Arabic and sticks",
+            "Dial markers": "Arabic and Sticks",
             "Finishing Details": "-",
             "Luminescent Indexes": "None",
-            "Calendar": "Without calendar"
+            "Calendar": "without Calendar"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard Buckle",
             "Width": "18 mm",
@@ -115,10 +115,10 @@ export default {
                 "Peseux 320 Parts Catalogue": "../Files/3179_Peseux 330.pdf"
             },
             "sliderImages": [
-                require("../Images/Cauny/CaunyApollon/Peseux_320.jpg"),
-                require("../Images/Cauny/CaunyApollon/Peseux_320-0.jpg"),
-                require("../Images/Cauny/CaunyApollon/Peseux_320-1.jpg"),
-                require("../Images/Cauny/CaunyApollon/Peseux_320-2.jpg"),
+                "assets/Images/Cauny/CaunyApollon/Peseux_320.JPG",
+                "assets/Images/Cauny/CaunyApollon/Peseux_320-0.JPG",
+                "assets/Images/Cauny/CaunyApollon/Peseux_320-1.JPG",
+                "assets/Images/Cauny/CaunyApollon/Peseux_320-2.JPG",
             ],
             "Details": {
                 "Manufacturer": "Peseux (Swiss Made)",

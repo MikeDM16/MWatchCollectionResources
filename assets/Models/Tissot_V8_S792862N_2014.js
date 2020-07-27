@@ -1,30 +1,30 @@
 export default {
     title: "Tissot V8 S762/862N Chronograph 2014",
     sliderImages: [
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3610.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3611.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3612.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3613.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3614.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3615.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3616.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3617.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3618.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3619.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3620.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3621.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3622.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3623.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3624.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3625.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3626.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3617.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3628.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3629.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3630.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3631.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3632.jpg"),
-        require("../Images/Tissot/Tissot_V8_2014/IMG_3633.jpg"),
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3610.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3611.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3612.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3613.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3614.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3615.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3616.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3617.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3618.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3619.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3620.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3621.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3622.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3623.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3624.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3625.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3626.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3617.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3628.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3629.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3630.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3631.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3632.JPG",
+        "assets/Images/Tissot/Tissot_V8_2014/IMG_3633.JPG",
     ],
     technicalData: {
         Features: [
@@ -55,15 +55,15 @@ export default {
         },
 
         Dial: {
-            "Color": "Light Gray",
+            "Color": "Light Grey",
             "Dial markers": "Sticks",
             "Finishing Details": "-",
             "Luminescent Indexes": "Hands and markers",
             "Calendar": "Date display at 6 o´clock position"
         },
 
-        Strap: {
-            "Material": "NATO Leather strap",
+        Bracelet: {
+            "Material": "Nato Leather strap",
             "Buckle": "Standard Buckle",
             "Width": "21 mm",
             "Color": "Dark Brown"
@@ -81,10 +81,10 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_V8_2014/eta-caliber-g10-211-3.jpg"),
-                require("../Images/Tissot/Tissot_V8_2014/eta-caliber-g10-211-4.jpg"),
-                require("../Images/Tissot/Tissot_V8_2014/eta-caliber-g10-211.jpg"),
-                require("../Images/Tissot/Tissot_V8_2014/eta-caliber-g10-211-2.jpg"),
+                "assets/Images/Tissot/Tissot_V8_2014/eta-caliber-g10-211-3.JPG",
+                "assets/Images/Tissot/Tissot_V8_2014/eta-caliber-g10-211-4.JPG",
+                "assets/Images/Tissot/Tissot_V8_2014/eta-caliber-g10-211.JPG",
+                "assets/Images/Tissot/Tissot_V8_2014/eta-caliber-g10-211-2.JPG",
             ],
 
             "Details": {

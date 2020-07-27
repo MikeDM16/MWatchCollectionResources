@@ -56,33 +56,33 @@ export default {
             "The watch was later sold at eBay as spare parts, since the case, glass and strap could be used for others Titus or omega models.",
 
         sliderImages: [
-            require("../Images/Titus_Tuning_Fork/titustuningfork/12ja35-(5).jpg"),
-            require("../Images/Titus_Tuning_Fork/titustuningfork/12ja35-(6).jpg"),
-            require("../Images/Titus_Tuning_Fork/titustuningfork/12ja35-(3).jpg"),
-            require("../Images/Titus_Tuning_Fork/titustuningfork/12ja35-(7).jpg"),
-            require("../Images/Titus_Tuning_Fork/titustuningfork/12ja35-(4).jpg"),
-            require("../Images/Titus_Tuning_Fork/titustuningfork/12ja35-(8).jpg"),
-            require("../Images/Titus_Tuning_Fork/titustuningfork/12ja35-(9).jpg"),
-            require("../Images/Titus_Tuning_Fork/titustuningfork/12ja35-(2).jpg"),
-            require("../Images/Titus_Tuning_Fork/titustuningfork/12ja35-(1).jpg"),
-            require("../Images/Titus_Tuning_Fork/titustuningfork/AG08183-(9).jpg"),
+            "assets/Images/Titus/Titus_Tuning_Fork/titustuningfork/12ja35-(5).JPG",
+            "assets/Images/Titus/Titus_Tuning_Fork/titustuningfork/12ja35-(6).JPG",
+            "assets/Images/Titus/Titus_Tuning_Fork/titustuningfork/12ja35-(3).JPG",
+            "assets/Images/Titus/Titus_Tuning_Fork/titustuningfork/12ja35-(7).JPG",
+            "assets/Images/Titus/Titus_Tuning_Fork/titustuningfork/12ja35-(4).JPG",
+            "assets/Images/Titus/Titus_Tuning_Fork/titustuningfork/12ja35-(8).JPG",
+            "assets/Images/Titus/Titus_Tuning_Fork/titustuningfork/12ja35-(9).JPG",
+            "assets/Images/Titus/Titus_Tuning_Fork/titustuningfork/12ja35-(2).JPG",
+            "assets/Images/Titus/Titus_Tuning_Fork/titustuningfork/12ja35-(1).JPG",
+            "assets/Images/Titus/Titus_Tuning_Fork/titustuningfork/AG08183-(9).JPG",
         ]
     },
     sliderImages: [
-        require("../Images/Titus_Tuning_Fork/IMG_1254.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1255.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1261.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1262.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1263.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1264.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1265.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1252.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1253.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1249.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1250.jpg"),
-        require("../Images/Titus_Tuning_Fork/IMG_1251.jpg"),
-        require("../Images/Titus_Tuning_Fork/7.jpg"),
-        require("../Images/Titus_Tuning_Fork/8.jpg"),
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1254.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1255.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1261.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1262.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1263.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1264.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1265.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1252.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1253.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1249.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1250.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/IMG_1251.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/7.JPG",
+        "assets/Images/Titus/Titus_Tuning_Fork/8.JPG",
 
     ],
     technicalData: {
@@ -120,11 +120,11 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "Integrated SS Links bracelet",
+        Bracelet: {
+            "Material": "Integrated SS Links Bracelet",
             "Buckle": "Folding clasp",
             "Width": "22 mm",
-            "Color": "SS Gray"
+            "Color": "SS Grey"
         },
 
         Movement: {
@@ -150,9 +150,9 @@ export default {
                 "ETA 9162 Original Repair Manual from Omega": "../Files/6288_ETA 9162 Repair Manual.pdf"
             },
             "sliderImages": [
-                require("../Images/Titus_Tuning_Fork/mov1.png"),
-                require("../Images/Titus_Tuning_Fork/mov2.jpg"),
-                require("../Images/Titus_Tuning_Fork/mov4.png"),
+                "assets/Images/Titus/Titus_Tuning_Fork/mov1.PNG",
+                "assets/Images/Titus/Titus_Tuning_Fork/mov2.JPG",
+                "assets/Images/Titus/Titus_Tuning_Fork/mov4.PNG",
             ],
 
             "Details": {

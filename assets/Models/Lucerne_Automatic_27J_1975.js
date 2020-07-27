@@ -14,28 +14,28 @@ export default {
     },
 
     sliderImages: [
-        require("../Images/Lucerne_Dive_1975/IMG_2034.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_2035.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_2036.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_2037.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_2038.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_2039.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_0443.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_0446.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_0448.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_0452.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1785.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1786.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1787.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1788.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1789.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1790.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1791.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1792.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1793.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1794.jpg"),
-        require("../Images/Lucerne_Dive_1975/IMG_1795.jpg"),
-        require("../Images/Lucerne_Dive_1975/BWAK2273.jpg"),
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2034.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2035.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2036.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2037.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2038.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2039.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_0443.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_0446.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_0448.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_0452.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1785.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1786.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1787.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1788.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1789.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1790.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1791.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1792.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1793.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1794.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1795.JPG",
+        "assets/Images/Lucerne/Lucerne_Dive_1975/BWAK2273.JPG",
 
     ],
     technicalData: {
@@ -75,7 +75,7 @@ export default {
             "Calendar": "Date display at 3 o´clock position, Cyclop lens"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard buckle",
             "Width": "19 mm",
@@ -89,9 +89,9 @@ export default {
                 "Ranfft Baumgartner 158": "http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Baumgartner_158_31_7_CLDD"
             },
             "sliderImages": [
-                require("../Images/Lucerne_Dive_1975/movBF158-1.jpg"),
-                require("../Images/Lucerne_Dive_1975/movBF158-2.jpg"),
-                require("../Images/Lucerne_Dive_1975/movBF158-3.jpg"),
+                "assets/Images/Lucerne/Lucerne_Dive_1975/movBF158-1.JPG",
+                "assets/Images/Lucerne/Lucerne_Dive_1975/movBF158-2.JPG",
+                "assets/Images/Lucerne/Lucerne_Dive_1975/movBF158-3.JPG",
             ],
             "Details": {
                 "Manufacturer": "Baumgartner",

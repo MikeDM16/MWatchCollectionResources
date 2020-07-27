@@ -2,26 +2,26 @@ export default {
     title: "Camel Trophy M810.2080-2089 L2 Chrono 2001",
 
     sliderImages: [
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1338.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1339.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1340.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1341.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1342.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1343.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1344.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1345.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1346.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1347.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1348.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1349.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1350.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1351.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1352.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1379.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1380.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1381.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1382.jpg"),
-        require("../Images/Camel/Camel Trophy TopChrono/IMG_1392.jpg"),
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1338.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1339.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1340.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1341.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1342.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1343.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1344.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1345.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1346.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1347.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1348.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1349.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1350.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1351.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1352.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1379.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1380.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1381.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1382.JPG",
+        "assets/Images/Camel/Camel Trophy TopChrono/IMG_1392.JPG",
     ],
     Description: {
         text: "Camel Trophy Watches presents itself as a currently pursued and relatively collectable brand. \n" +
@@ -95,7 +95,7 @@ export default {
             "Calendar": "Date display at 4 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Leather",
             "Buckle": "Standard Buckle",
             "Width": "18 mm",
@@ -110,8 +110,8 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Camel/Camel Trophy TopChrono/YM52A-1.png"),
-                require("../Images/Camel/Camel Trophy TopChrono/YM52A-2.png"),
+                "assets/Images/Camel/Camel Trophy TopChrono/YM52A-1.PNG",
+                "assets/Images/Camel/Camel Trophy TopChrono/YM52A-2.PNG",
             ],
             "Details": {
                 "Manufacturer": "Shiojiri (Seiko)",

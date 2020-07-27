@@ -1,26 +1,26 @@
 export default {
     title: "Tissot Ballade C279/379C Automatic 2002",
     sliderImages: [
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4634.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4635.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4636.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4637.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4638.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4639.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4640.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4641.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4642.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4643.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4644.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4645.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4646.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4647.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4648.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4649.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4650.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4651.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4653.jpg"),
-        require("../Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4654.jpg"),
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4634.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4635.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4636.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4637.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4638.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4639.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4640.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4641.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4642.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4643.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4644.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4645.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4646.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4647.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4648.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4649.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4650.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4651.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4653.JPG",
+        "assets/Images/Tissot/Tissot_Ballade_Auto_2002/IMG_4654.JPG",
     ],
     technicalData: {
         Features: [
@@ -52,17 +52,17 @@ export default {
 
         Dial: {
             "Color": "White",
-            "Dial markers": "Roman and sticks",
+            "Dial markers": "Arabic and Sticks",
             "Finishing Details": "Textured",
             "Luminescent Indexes": "Hands and markers (Tritium)",
             "Calendar": "Date display between 4 and 5 o´clock position"
         },
 
-        Strap: {
-            "Material": "SS links bracelet",
+        Bracelet: {
+            "Material": "SS Links Bracelet",
             "Buckle": "Tissot folding clasp",
             "Width": "18 mm",
-            "Color": "Silver with gold details"
+            "Color": "Two tone: Grey with Gold details"
         },
 
         Movement: {
@@ -77,8 +77,8 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Tissot/Tissot_Ballade_Auto_2002/2836_t.png"),
-                require("../Images/Tissot/Tissot_Ballade_Auto_2002/2836_t_2.png"),
+                "assets/Images/Tissot/Tissot_Ballade_Auto_2002/2836_t.PNG",
+                "assets/Images/Tissot/Tissot_Ballade_Auto_2002/2836_t_2.PNG",
             ],
             "Details": {
                 "Manufacturer": "ETA",

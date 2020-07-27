@@ -1,27 +1,27 @@
 export default {
     title: "Tag Heuer Professional Formula-1 WA1219 1998",
     sliderImages: [
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4768.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4769.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4770.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4771.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4772.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4773.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4774.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4775.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4776.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4777.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4778.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4779.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4780.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4781.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4782.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4784.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4785.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4786.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4787.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/KOCK7746.jpg"),
-        require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/UXRO8574.jpg")
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4768.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4769.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4770.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4771.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4772.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4773.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4774.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4775.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4776.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4777.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4778.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4779.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4780.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4781.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4782.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4784.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4785.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4786.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/IMG_4787.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/KOCK7746.JPG",
+        "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/UXRO8574.JPG"
     ],
 
     technicalData: {
@@ -46,7 +46,7 @@ export default {
             "Tickness": "9 mm",
             "Material": "Stainless Steel",
             "Water Resistance": "Waterproof up to 200 M / 666 feet",
-            "Finishing": "Mate",
+            "Finishing": "Matte",
             "Bezel": "Uni-directional, 5-minute graduated",
             "Crown": "Screwed-In",
             "Crystal": "Mineral",
@@ -57,12 +57,12 @@ export default {
             "Color": "White",
             "Dial markers": "Sticks",
             "Finishing Details": "-",
-            "Luminescent Indexes": "Hands and sticks (Tritium)",
+            "Luminescent Indexes": "Hands and Sticks (Tritium)",
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
-            "Material": "F1 series rubber strap",
+        Bracelet: {
+            "Material": "F1 series Rubber strap",
             "Buckle": "Tag Heuer buckle",
             "Width": "18 mm",
             "Color": "Dark Blue"
@@ -75,10 +75,10 @@ export default {
                 "ETA 955.112": "http://www.eta.ch/en/our-products/quartz-movements/normflatline/eta-normflatline-955112",
             },
             "sliderImages": [
-                require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/ETA955412_1.jpg"),
-                require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/ETA955412_2.jpg"),
-                require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/ETA_955112.png"),
-                require("../Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/ETA_955112-2.png")
+                "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/ETA955412_1.JPG",
+                "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/ETA955412_2.JPG",
+                "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/ETA_955112.PNG",
+                "assets/Images/Tag_Heuer/Tag_Heuer_F1_1998_WA1219/ETA_955112-2.PNG"
             ],
             "Details": {
                 "Manufacturer": "ETA (Swiss Made)",

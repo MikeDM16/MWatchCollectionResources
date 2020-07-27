@@ -1,21 +1,21 @@
 export default {
     title: "Latino Excellence 1995",
     sliderImages: [
-        require("../Images/Latino_ETA_1995/IMG_1957.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1958.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1959.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1960.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1961.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1962.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1963.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1964.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1965.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1966.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1967.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1968.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1969.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1970.jpg"),
-        require("../Images/Latino_ETA_1995/IMG_1971.jpg"),
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1957.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1958.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1959.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1960.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1961.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1962.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1963.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1964.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1965.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1966.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1967.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1968.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1969.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1970.JPG",
+        "assets/Images/Latino/Latino_ETA_1995/IMG_1971.JPG",
     ],
     technicalData: {
         Features: [
@@ -52,11 +52,11 @@ export default {
             "Calendar": "Date display at 3 o´clock position"
         },
 
-        Strap: {
+        Bracelet: {
             "Material": "Shark Leather",
             "Buckle": "Standard Buckle",
             "Width": "18 mm",
-            "Color": "Dark Gray"
+            "Color": "Dark Grey"
         },
 
         Movement: {
@@ -68,9 +68,9 @@ export default {
 
             },
             "sliderImages": [
-                require("../Images/Latino_ETA_1995/ETA_805-114-1.jpg"),
-                require("../Images/Latino_ETA_1995/ETA_805-114-2.jpg"),
-                require("../Images/Latino_ETA_1995/ETA_805-114-3.jpg"),
+                "assets/Images/Latino/Latino_ETA_1995/ETA_805-114-1.JPG",
+                "assets/Images/Latino/Latino_ETA_1995/ETA_805-114-2.JPG",
+                "assets/Images/Latino/Latino_ETA_1995/ETA_805-114-3.JPG",
             ],
 
             "Details": {
