@@ -1,24 +1,26 @@
 export default {
-    title: "Jaguar Fragrances Chronograph - Limited Edition 1997",
+    title: "Jaguar Fragrances Chronograph - Limited Edition 1995",
 
     sliderImages: [
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4036.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4037.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4038.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4039.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4040.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4041.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4042.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4043.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4044.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4045.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4046.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4047.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4048.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4049.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4050.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4032.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4033.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2775.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2776.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2777.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2778.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2779.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2781.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2782.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2783.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2784.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2785.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2786.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2787.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2788.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2789.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2790.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2791.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2792.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2793.JPG",
+        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2794.JPG",
     ],
     technicalData: {
         Features: [
@@ -31,7 +33,7 @@ export default {
             "Brand": "Jaguar Fragrances",
             "Series": "Fragrances Collection - Limited Edition",
             "Catalogue Reference": "-",
-            "Prodution Year": "1997",
+            "Prodution Year": "1995",
             "Movement": "Quartz",
             "Style": "Sports Watch"
         },
@@ -57,10 +59,10 @@ export default {
         },
 
         Bracelet: {
-            "Material": "Leather",
-            "Buckle": "Butterfly deploy clasp",
+            "Material": "Leather (Shark skin)",
+            "Buckle": "Standard Buckle",
             "Width": "20 mm",
-            "Color": "Brown"
+            "Color": "Blue"
         },
 
         Movement: {
@@ -71,8 +73,8 @@ export default {
 
             },
             "sliderImages": [
-                "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/0s10-1.JPG",
-                "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/0s10-2.JPG",
+                "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/0s10-1.JPG",
+                "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/0s10-2.JPG",
             ],
 
             "Details": {

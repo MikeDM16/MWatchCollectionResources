@@ -59,7 +59,7 @@ export default {
         },
 
         Bracelet: {
-            "Material": "SS Links Bracelet",
+            "Material": "Titanium Links Bracelet",
             "Buckle": "Folding clasp",
             "Width": "19 mm",
             "Color": "(Titanium) matte Grey"

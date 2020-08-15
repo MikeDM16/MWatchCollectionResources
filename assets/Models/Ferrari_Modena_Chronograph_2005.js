@@ -102,7 +102,7 @@ export default {
         },
 
         Bracelet: {
-            "Material": "Stainless Steel",
+            "Material": "SS Bracelet",
             "Buckle": "Butterfly clasp",
             "Width": "20-18 mm",
             "Color": "Two-tone (polished/brushed), Grey"
