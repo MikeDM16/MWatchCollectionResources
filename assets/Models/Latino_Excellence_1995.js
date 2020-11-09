@@ -1,21 +1,21 @@
 export default {
-    title: "Latino Excellence 1995",
+    title: "1995 Latino Excellence",
     sliderImages: [
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1957.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1958.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1959.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1960.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1961.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1962.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1963.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1964.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1965.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1966.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1967.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1968.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1969.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1970.JPG",
-        "assets/Images/Latino/Latino_ETA_1995/IMG_1971.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1957.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1958.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1959.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1960.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1961.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1962.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1963.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1964.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1965.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1966.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1967.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1968.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1969.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1970.JPG",
+        "assets/Images/Latino/1995_Latino_ETA/IMG_1971.JPG",
     ],
     technicalData: {
         Features: [
@@ -68,9 +68,9 @@ export default {
 
             },
             "sliderImages": [
-                "assets/Images/Latino/Latino_ETA_1995/ETA_805-114-1.JPG",
-                "assets/Images/Latino/Latino_ETA_1995/ETA_805-114-2.JPG",
-                "assets/Images/Latino/Latino_ETA_1995/ETA_805-114-3.JPG",
+                "assets/Images/Latino/1995_Latino_ETA/ETA_805-114-1.JPG",
+                "assets/Images/Latino/1995_Latino_ETA/ETA_805-114-2.JPG",
+                "assets/Images/Latino/1995_Latino_ETA/ETA_805-114-3.JPG",
             ],
 
             "Details": {

@@ -1,5 +1,5 @@
 export default {
-    title: "Lorus N945-7A90 Multi-Function Chronograph 1993",
+    title: "1993 Lorus N945-7A90 Multi-Function Chronograph",
     Description: {
         text: "What seems to be just a simple Lorus watch, happens to be one of the most complex and interesting watches that I ever come across. \n" +
             "The movement of this Lorus, the Shiojiri N945, was only used in very few Seiko watches itself, like the Seiko Hiper-Tech Titanium. \n \n " +
@@ -21,40 +21,45 @@ export default {
 
             "These particular Lorus models are hard to find in good condition. ",
         sliderImages: [
-            "assets/Images/Lorus/Lorus N945-7A10/N945 web/991ee770-0b96-469d-a72c-43be409cefce.JPG",
-            "assets/Images/Lorus/Lorus N945-7A10/N945 web/32179456.JPG",
-            "assets/Images/Lorus/Lorus N945-7A10/N945 web/Capturar.PNG",
-            "assets/Images/Lorus/Lorus N945-7A10/N945 web/k237864958.1.JPG",
-            "assets/Images/Lorus/Lorus N945-7A10/N945 web/radianf1.JPG",
-            "assets/Images/Lorus/Lorus N945-7A10/N945 web/YemaAdvert1989-SpationauteIIIFlygraf.JPG",
-            "assets/Images/Lorus/Lorus N945-7A10/N945 web/black.JPG",
-            "assets/Images/Lorus/Lorus N945-7A10/N945 web/blue1 (4).JPG",
-            "assets/Images/Lorus/Lorus N945-7A10/N945 web/green1 (1).JPG",
-            "assets/Images/Lorus/Lorus N945-7A10/N945 web/red1 (3).JPG",
+            "assets/Images/Lorus/1993_Lorus_N945_7A10/N945 web/991ee770-0b96-469d-a72c-43be409cefce.JPG",
+            "assets/Images/Lorus/1993_Lorus_N945_7A10/N945 web/32179456.JPG",
+            "assets/Images/Lorus/1993_Lorus_N945_7A10/N945 web/Capturar.PNG",
+            "assets/Images/Lorus/1993_Lorus_N945_7A10/N945 web/k237864958.1.JPG",
+            "assets/Images/Lorus/1993_Lorus_N945_7A10/N945 web/radianf1.JPG",
+            "assets/Images/Lorus/1993_Lorus_N945_7A10/N945 web/YemaAdvert1989-SpationauteIIIFlygraf.JPG",
+            "assets/Images/Lorus/1993_Lorus_N945_7A10/N945 web/black.JPG",
+            "assets/Images/Lorus/1993_Lorus_N945_7A10/N945 web/blue1 (4).JPG",
+            "assets/Images/Lorus/1993_Lorus_N945_7A10/N945 web/green1 (1).JPG",
+            "assets/Images/Lorus/1993_Lorus_N945_7A10/N945 web/red1 (3).JPG",
         ],
     },
 
     sliderImages: [
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0698.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0683.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0684.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0685.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0686.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0687.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0688.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0689.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0690-1.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0690.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0691.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0692.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0693.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0694.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0695.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0696.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/IMG_0697.JPG",
-        "assets/Images/Lorus/Lorus N945-7A90/XGNQ2877.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0698.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0683.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0684.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0685.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0686.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0687.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0688.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0689.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0690-1.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0690.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0691.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0692.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0693.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0694.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0695.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0696.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/IMG_0697.JPG",
+        "assets/Images/Lorus/1993_Lorus_N945_7A90/XGNQ2877.JPG",
 
     ],
+    sellReport: {
+        price: 53,
+        date: "08/02/2018", 
+        url: "https://www.catawiki.com/l/16543867-lorus-seiko-n945-7a90-men-1980-1989",
+    },
     technicalData: {
         Features: [
             "Date",
@@ -107,8 +112,8 @@ export default {
 
             },
             "sliderImages": [
-                "assets/Images/Lorus/Lorus N945-7A10/L-N945-Mov1.JPG",
-                "assets/Images/Lorus/Lorus N945-7A10/L-N945-Mov2.JPG",
+                "assets/Images/Lorus/1993_Lorus_N945_7A10/L-N945-Mov1.JPG",
+                "assets/Images/Lorus/1993_Lorus_N945_7A10/L-N945-Mov2.JPG",
             ],
 
             "Details": {

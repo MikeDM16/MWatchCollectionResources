@@ -1,5 +1,5 @@
 export default {
-    title: "Monumental Automatic Dive 200M 1975",
+    title: "1975 Monumental Automatic Dive 200M",
     Description: {
         text: "After some research in the most common watch forums, like WatchUSeek or TimeZone, no solid information can be found regarding the \
          origins and history of the Monumental watch brand. \n \n" +
@@ -16,43 +16,48 @@ export default {
         Looking at the diving depth that the watch claims to hold and the high quality ETA movement, Monumental brand should have produced mid-level watches for their market.",
 
         sliderImages: [
-            "assets/Images/Monumental/Monumental_Swiss 1975/vanguard/m1 (1).JPG",
-            "assets/Images/Monumental/Monumental_Swiss 1975/vanguard/m1 (2).JPG",
-            "assets/Images/Monumental/Monumental_Swiss 1975/vanguard/m1 (3).JPG",
-            "assets/Images/Monumental/Monumental_Swiss 1975/vanguard/m1 (4).JPG",
-            "assets/Images/Monumental/Monumental_Swiss 1975/vanguard/m2 (1).JPG",
-            "assets/Images/Monumental/Monumental_Swiss 1975/vanguard/m2 (2).JPG",
+            "assets/Images/Monumental/1975_Monumental_Swiss/vanguard/m1 (1).JPG",
+            "assets/Images/Monumental/1975_Monumental_Swiss/vanguard/m1 (2).JPG",
+            "assets/Images/Monumental/1975_Monumental_Swiss/vanguard/m1 (3).JPG",
+            "assets/Images/Monumental/1975_Monumental_Swiss/vanguard/m1 (4).JPG",
+            "assets/Images/Monumental/1975_Monumental_Swiss/vanguard/m2 (1).JPG",
+            "assets/Images/Monumental/1975_Monumental_Swiss/vanguard/m2 (2).JPG",
 
         ]
     },
 
     sliderImages: [
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0324.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0325.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0326.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0327.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0328.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0329.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0330.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0121.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0122.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0123.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0125.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0126.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_2804.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0128.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0129.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0135.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0137.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0140.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0141.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_0142.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_2802.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_2803.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_2843.JPG",
-        "assets/Images/Monumental/Monumental_Swiss 1975/IMG_2844.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0324.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0325.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0326.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0327.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0328.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0329.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0330.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0121.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0122.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0123.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0125.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0126.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_2804.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0128.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0129.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0135.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0137.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0140.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0141.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_0142.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_2802.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_2803.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_2843.JPG",
+        "assets/Images/Monumental/1975_Monumental_Swiss/IMG_2844.JPG",
 
     ],
+    sellReport: {
+        price: 139,
+        date: "27/09/2018", 
+        url: "https://www.catawiki.pt/l/21063013-monumental-swiss-n323-eta-2783-25-jewels-automatic-dive-200m-homem-1970-1979",
+    },
     technicalData: {
         Features: [
             "Date",
@@ -106,9 +111,9 @@ export default {
                 "ETA 2783 Vintage Parts Catalogue": "../Files/496_ETA2750,1,2,6,4.pdf",
             },
             "sliderImages": [
-                "assets/Images/Monumental/Monumental_Swiss 1975/mov1.PNG",
-                "assets/Images/Monumental/Monumental_Swiss 1975/mov2.PNG",
-                "assets/Images/Monumental/Monumental_Swiss 1975/mov3.PNG",
+                "assets/Images/Monumental/1975_Monumental_Swiss/mov1.PNG",
+                "assets/Images/Monumental/1975_Monumental_Swiss/mov2.PNG",
+                "assets/Images/Monumental/1975_Monumental_Swiss/mov3.PNG",
             ],
             "Details": {
                 "Manufacturer": "ETA",

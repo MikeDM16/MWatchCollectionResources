@@ -1,5 +1,5 @@
 export default {
-    title: "Seiko 6M25 Multi-Function Chronograph 1992",
+    title: "1992 Seiko 6M25 Multi-Function Chronograph",
     description: {
         text: "Along the 1980s and 1990s, Seiko keeps up with the \"Sports 150\" series of watches. \n" +
             "Most of those models used the well know Seiko 7T32, which back then was one of the most reliable and durable movements assemble by Seiko. \n \n" +
@@ -26,34 +26,34 @@ export default {
         ImageSliders: []
     },
     sliderImages: [
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1819.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1820.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1821.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1822.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1823.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1824.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1825.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1826.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1827.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1828.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1829.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1830.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1831.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1832.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1833.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1834.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1835.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1836.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1837.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1838.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1839.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1840.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1841.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1842.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1843.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1844.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1845.JPG",
-        "assets/Images/Seiko/Seiko_6M25 1992/IMG_1657.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1819.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1820.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1821.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1822.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1823.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1824.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1825.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1826.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1827.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1828.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1829.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1830.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1831.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1832.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1833.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1834.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1835.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1836.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1837.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1838.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1839.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1840.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1841.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1842.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1843.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1844.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1845.JPG",
+        "assets/Images/Seiko/1992_Seiko_6M25/IMG_1657.JPG",
     ],
     technicalData: {
         Features: [
@@ -108,7 +108,7 @@ export default {
                 "Seiko 6M25 Parts Catalogue": "../Files/1623_Seiko6M25A.pdf",
             },
             "sliderImages": [
-                "assets/Images/Seiko/Seiko_6M25 1992/6M25-cal.JPG"
+                "assets/Images/Seiko/1992_Seiko_6M25/6M25-cal.JPG"
             ],
             "Details": {
                 "Manufacturer": "Seiko",

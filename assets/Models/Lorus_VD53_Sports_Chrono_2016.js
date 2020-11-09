@@ -1,18 +1,18 @@
 export default {
-    title: "Lorus VD53 Sports Chronograph 2016",
+    title: "2016 Lorus VD53 Sports Chronograph",
     sliderImages: [
-        "assets/Images/Lorus/Lorus_VD53/IMG_3173.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3174.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3175.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3176.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3177.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3178.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3179.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3180.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3182.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3183.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3185.JPG",
-        "assets/Images/Lorus/Lorus_VD53/IMG_3186.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3173.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3174.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3175.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3176.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3177.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3178.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3179.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3180.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3182.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3183.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3185.JPG",
+        "assets/Images/Lorus/2016_Lorus_VD53/IMG_3186.JPG",
 
     ],
     technicalData: {
@@ -67,10 +67,10 @@ export default {
 
             },
             "sliderImages": [
-                "assets/Images/Lorus/Lorus_VD53/hattori-vD53b-caliber-sii-quartz-movement.JPG",
-                "assets/Images/Lorus/Lorus_VD53/31301659_1919416391403784_8610838068980613120_n.JPG",
-                "assets/Images/Lorus/Lorus_VD53/seiko-s11-caliber-vd53b.JPG",
-                "assets/Images/Lorus/Lorus_VD53/hattori-vD53b-caliber-sii-quartz-seiko-tmi.JPG",
+                "assets/Images/Lorus/2016_Lorus_VD53/hattori-vD53b-caliber-sii-quartz-movement.JPG",
+                "assets/Images/Lorus/2016_Lorus_VD53/31301659_1919416391403784_8610838068980613120_n.JPG",
+                "assets/Images/Lorus/2016_Lorus_VD53/seiko-s11-caliber-vd53b.JPG",
+                "assets/Images/Lorus/2016_Lorus_VD53/hattori-vD53b-caliber-sii-quartz-seiko-tmi.JPG",
 
             ],
 

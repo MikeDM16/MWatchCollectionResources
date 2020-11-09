@@ -1,5 +1,5 @@
 export default {
-    title: "Cauny Prima De Luxe 1957",
+    title: "1956 Cauny Prima De Luxe",
 
     Description: {
         text: "Cauny was founded around in 1927, at la Chaux de Fonds, in Switzerland. \n" +
@@ -50,18 +50,18 @@ export default {
         ]
     },
     sliderImages: [
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2266.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2268.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2270.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2271.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2272.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2274.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2275.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2279.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2291.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2295.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2393.JPG",
-        "assets/Images/Cauny/CaunyDeLuxe/IMG_2487.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2266.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2268.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2270.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2271.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2272.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2274.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2275.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2279.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2291.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2295.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2393.JPG",
+        "assets/Images/Cauny/1956_CaunyDeLuxe/IMG_2487.JPG",
 
     ],
     technicalData: {
@@ -114,9 +114,9 @@ export default {
                 "FEF 290Parts Catalogue": "../Files/2731_FEF 290 310.pdf",
             },
             "sliderImages": [
-                "assets/Images/Cauny/CaunyDeLuxe/mov1.JPG",
-                "assets/Images/Cauny/CaunyDeLuxe/mov2.JPG",
-                "assets/Images/Cauny/CaunyDeLuxe/mov3.JPG",
+                "assets/Images/Cauny/1956_CaunyDeLuxe/mov1.JPG",
+                "assets/Images/Cauny/1956_CaunyDeLuxe/mov2.JPG",
+                "assets/Images/Cauny/1956_CaunyDeLuxe/mov3.JPG",
             ],
             "Details": {
                 "Manufacturer": "FEF (Swiss Made)",

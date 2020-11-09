@@ -1,5 +1,5 @@
 export default {
-    title: "Cauny Prima Calendario 17 Rubis 1967",
+    title: "1967 Cauny Prima Calendario 17 Rubis",
     Description: {
         text: "Cauny was founded around in 1927, at la Chaux de Fonds, in Switzerland. \n" +
             "Although the brand was born at the heart of the Swiss watches jewellery, their models were mostly intended for the Spanish and Portuguese market, \
@@ -49,33 +49,38 @@ export default {
         ]
     },
     sliderImages: [
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1808.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1809.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1810.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1811.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1812.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1813.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1814.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1815.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1816.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1817.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1818.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1819.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1820.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1821.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1822.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1823.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1824.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1825.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1826.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1827.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1828.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1829.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1830.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/IMG_1832.JPG",
-        "assets/Images/Cauny/CaunyPrimaCalendario/XZIK1870.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1808.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1809.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1810.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1811.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1812.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1813.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1814.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1815.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1816.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1817.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1818.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1819.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1820.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1821.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1822.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1823.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1824.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1825.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1826.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1827.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1828.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1829.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1830.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/IMG_1832.JPG",
+        "assets/Images/Cauny/1967_CaunyPrimaCalendario/XZIK1870.JPG",
 
     ],
+    sellReport: {
+        price: 135,
+        date: "21/03/2019", 
+        url: "https://www.catawiki.pt/l/25161393-cauny-prima-calendario-cal-as-1950-homem-1960-1969",
+    },
     technicalData: {
         Features: [
             "Date",
@@ -127,9 +132,9 @@ export default {
                 "AS 1950 Parts Catalogue": "../Files/AS_1951.pdf"
             },
             "sliderImages": [
-                "assets/Images/Cauny/CaunyPrimaCalendario/mov (1).JPG",
-                "assets/Images/Cauny/CaunyPrimaCalendario/mov (2).JPG",
-                "assets/Images/Cauny/CaunyPrimaCalendario/mov (3).JPG",
+                "assets/Images/Cauny/1967_CaunyPrimaCalendario/mov (1).JPG",
+                "assets/Images/Cauny/1967_CaunyPrimaCalendario/mov (2).JPG",
+                "assets/Images/Cauny/1967_CaunyPrimaCalendario/mov (3).JPG",
             ],
             "Details": {
                 "Manufacturer": "Adolf Schild [AS]",

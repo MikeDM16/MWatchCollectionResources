@@ -1,22 +1,28 @@
 export default {
-    title: "Martini Special 17 Rubis 1975",
+    title: "1975 Martini Special 17 Rubis",
     sliderImages: [
-        "assets/Images/Martini/Martini_Special 1975/IMG_2779.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2780.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2781.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2782.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2783.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2784.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2785.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2786.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2787.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2788.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2789.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2790.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2791.JPG",
-        "assets/Images/Martini/Martini_Special 1975/IMG_2792.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2779.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2780.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2781.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2782.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2783.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2784.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2785.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2786.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2787.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2788.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2789.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2790.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2791.JPG",
+        "assets/Images/Martini/1975_Martini_Special/IMG_2792.JPG",
 
     ],
+    sellReport: {
+        price: 70,
+        date: "29/07/2018", 
+        url: "https://www.catawiki.pt/l/20023981-martini-swiss-special-17-rubis-nos-cal-fe-140-17-rubis-homem-1970-1979",
+
+    },
     technicalData: {
         Features: [
             "Date",
@@ -67,10 +73,10 @@ export default {
 
             },
             "sliderImages": [
-                "assets/Images/Martini/Martini_Special 1975/mov1.PNG",
-                "assets/Images/Martini/Martini_Special 1975/mov2.PNG",
-                "assets/Images/Martini/Martini_Special 1975/mov3.PNG",
-                "assets/Images/Martini/Martini_Special 1975/mov4.PNG",
+                "assets/Images/Martini/1975_Martini_Special/mov1.PNG",
+                "assets/Images/Martini/1975_Martini_Special/mov2.PNG",
+                "assets/Images/Martini/1975_Martini_Special/mov3.PNG",
+                "assets/Images/Martini/1975_Martini_Special/mov4.PNG",
 
             ],
             "Details": {

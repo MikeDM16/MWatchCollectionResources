@@ -1,5 +1,5 @@
 export default {
-    title: "Cauny Apollon 17 Rubis 1957",
+    title: "1957 Cauny Apollon 17 Rubis",
 
     Description: {
         text: "Cauny was founded around in 1927, at la Chaux de Fonds, in Switzerland. \n" +
@@ -50,18 +50,23 @@ export default {
         ]
     },
     sliderImages: [
-        "assets/Images/Cauny/CaunyApollon/IMG_1581.JPG",
-        "assets/Images/Cauny/CaunyApollon/IMG_1582.JPG",
-        "assets/Images/Cauny/CaunyApollon/IMG_1583.JPG",
-        "assets/Images/Cauny/CaunyApollon/IMG_1584.JPG",
-        "assets/Images/Cauny/CaunyApollon/IMG_1586.JPG",
-        "assets/Images/Cauny/CaunyApollon/IMG_1588.JPG",
-        "assets/Images/Cauny/CaunyApollon/IMG_1589.JPG",
-        "assets/Images/Cauny/CaunyApollon/IMG_1591.JPG",
-        "assets/Images/Cauny/CaunyApollon/IMG_1593.JPG",
-        "assets/Images/Cauny/CaunyApollon/IMG_1594.JPG",
+        "assets/Images/Cauny/1957_CaunyApollon/IMG_1581.JPG",
+        "assets/Images/Cauny/1957_CaunyApollon/IMG_1582.JPG",
+        "assets/Images/Cauny/1957_CaunyApollon/IMG_1583.JPG",
+        "assets/Images/Cauny/1957_CaunyApollon/IMG_1584.JPG",
+        "assets/Images/Cauny/1957_CaunyApollon/IMG_1586.JPG",
+        "assets/Images/Cauny/1957_CaunyApollon/IMG_1588.JPG",
+        "assets/Images/Cauny/1957_CaunyApollon/IMG_1589.JPG",
+        "assets/Images/Cauny/1957_CaunyApollon/IMG_1591.JPG",
+        "assets/Images/Cauny/1957_CaunyApollon/IMG_1593.JPG",
+        "assets/Images/Cauny/1957_CaunyApollon/IMG_1594.JPG",
 
     ],
+    sellReport: {
+        price: 51,
+        date: "16/04/2018", 
+        url: "https://www.catawiki.pt/l/17956057-cauny-prima-apollon-homem-1950-1959",
+    },
     technicalData: {
         Features: [
             "Date",
@@ -115,10 +120,10 @@ export default {
                 "Peseux 320 Parts Catalogue": "../Files/3179_Peseux 330.pdf"
             },
             "sliderImages": [
-                "assets/Images/Cauny/CaunyApollon/Peseux_320.JPG",
-                "assets/Images/Cauny/CaunyApollon/Peseux_320-0.JPG",
-                "assets/Images/Cauny/CaunyApollon/Peseux_320-1.JPG",
-                "assets/Images/Cauny/CaunyApollon/Peseux_320-2.JPG",
+                "assets/Images/Cauny/1957_CaunyApollon/Peseux_320.JPG",
+                "assets/Images/Cauny/1957_CaunyApollon/Peseux_320-0.JPG",
+                "assets/Images/Cauny/1957_CaunyApollon/Peseux_320-1.JPG",
+                "assets/Images/Cauny/1957_CaunyApollon/Peseux_320-2.JPG",
             ],
             "Details": {
                 "Manufacturer": "Peseux (Swiss Made)",

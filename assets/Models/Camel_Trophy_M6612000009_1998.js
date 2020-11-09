@@ -1,23 +1,23 @@
 export default {
-    title: "Camel Trophy M661.2000.2009 Time Date 1998",
+    title: "1998 Camel Trophy M661.2000.2009 Time Date",
 
     sliderImages: [
-        "assets/Images/Camel/Camel Trophy Time Date 1998/1.JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/8.JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/9.JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/10.JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/4.JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/5.JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/6.JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/7.JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/2 (1).JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/2 (5).JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/2 (10).JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/3 (4).JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/3 (8).JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/3 (10).JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/1 (4).JPG",
-        "assets/Images/Camel/Camel Trophy Time Date 1998/clean.JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/1.JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/8.JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/9.JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/10.JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/4.JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/5.JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/6.JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/7.JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/2 (1).JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/2 (5).JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/2 (10).JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/3 (4).JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/3 (8).JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/3 (10).JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/1 (4).JPG",
+        "assets/Images/Camel/1998_Camel_Trophy_Time_Date/clean.JPG",
     ],
     Description: {
         text: "Camel Trophy Watches presents itself as a currently pursued and relatively collectable brand. \n" +
@@ -105,7 +105,7 @@ export default {
 
             },
             "sliderImages": [
-                "assets/Images/Camel/Camel Trophy Time Date 1998/ronda315.PNG"
+                "assets/Images/Camel/1998_Camel_Trophy_Time_Date/ronda315.PNG"
 
             ],
 

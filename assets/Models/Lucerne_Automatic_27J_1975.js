@@ -1,5 +1,5 @@
 export default {
-    title: "Lucerne Automatic 25 Jewels 1975",
+    title: "1975 Lucerne Automatic 25 Jewels",
     Description: {
         text: "Lucerne watches have their major appearance in the 1970s. \n" +
             "The brand name is the same as a city in central Switzerland, therefore possibly justifying the brand \"Swiss made\" origins and establishing. \n \n" +
@@ -14,30 +14,35 @@ export default {
     },
 
     sliderImages: [
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2034.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2035.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2036.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2037.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2038.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_2039.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_0443.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_0446.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_0448.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_0452.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1785.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1786.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1787.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1788.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1789.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1790.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1791.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1792.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1793.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1794.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/IMG_1795.JPG",
-        "assets/Images/Lucerne/Lucerne_Dive_1975/BWAK2273.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_2034.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_2035.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_2036.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_2037.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_2038.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_2039.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_0443.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_0446.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_0448.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_0452.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1785.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1786.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1787.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1788.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1789.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1790.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1791.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1792.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1793.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1794.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/IMG_1795.JPG",
+        "assets/Images/Lucerne/1975_Lucerne_Dive/BWAK2273.JPG",
 
     ],
+    sellReport: {
+        price: 150,
+        date: "17/12/2018", 
+        url: "https://www.catawiki.com/l/22975267-lucerne-swiss-automatic-25-jewels-dive-watch-men-1970-1979",
+    },
     technicalData: {
         Features: [
             "Date",
@@ -89,9 +94,9 @@ export default {
                 "Ranfft Baumgartner 158": "http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Baumgartner_158_31_7_CLDD"
             },
             "sliderImages": [
-                "assets/Images/Lucerne/Lucerne_Dive_1975/movBF158-1.JPG",
-                "assets/Images/Lucerne/Lucerne_Dive_1975/movBF158-2.JPG",
-                "assets/Images/Lucerne/Lucerne_Dive_1975/movBF158-3.JPG",
+                "assets/Images/Lucerne/1975_Lucerne_Dive/movBF158-1.JPG",
+                "assets/Images/Lucerne/1975_Lucerne_Dive/movBF158-2.JPG",
+                "assets/Images/Lucerne/1975_Lucerne_Dive/movBF158-3.JPG",
             ],
             "Details": {
                 "Manufacturer": "Baumgartner",

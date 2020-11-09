@@ -1,32 +1,32 @@
 export default {
-    title: "Seiko Type II 4004 1976",
+    title: "1976 Seiko Type II 4004",
     description: {
         text: undefined ,
         ImageSliders: []
     },
     sliderImages: [
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1111.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1112.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1113.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1114.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1115.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1116.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1117.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1118.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1119.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1120.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1121.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1122.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1123.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1124.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1125.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1126.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1127.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1128.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1130.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1831.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1832.JPG",
-        "assets/Images/Seiko/Seiko_4004_1976/IMG_1833.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1111.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1112.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1113.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1114.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1115.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1116.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1117.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1118.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1119.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1120.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1121.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1122.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1123.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1124.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1125.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1126.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1127.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1128.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1130.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1131.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1132.JPG",
+        "assets/Images/Seiko/1976_Seiko_4004/IMG_1133.JPG",
     ],
     technicalData: {
         Features: [
@@ -75,8 +75,8 @@ export default {
             "UsefullLinks": {
             },
             "sliderImages": [
-                "assets/Images/Seiko/Seiko_4004_1976/0903A-1.jpg",
-                "assets/Images/Seiko/Seiko_4004_1976/0903A-2.jpg"
+                "assets/Images/Seiko/1976_Seiko_4004/0903A-1.jpg",
+                "assets/Images/Seiko/1976_Seiko_4004/0903A-2.jpg"
             ],
             "Details": {
                 "Manufacturer": "Seiko",

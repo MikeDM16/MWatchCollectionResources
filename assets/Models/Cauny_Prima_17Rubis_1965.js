@@ -1,5 +1,5 @@
 export default {
-    title: "Cauny Prima 17 Rubis 1965",
+    title: "1965 Cauny Prima 17 Rubis",
     Description: {
         text: "Cauny was founded around in 1927, at la Chaux de Fonds, in Switzerland. \n" +
             "Although the brand was born at the heart of the Swiss watches jewellery, their models were mostly intended for the Spanish and Portuguese market, \
@@ -49,21 +49,26 @@ export default {
         ]
     },
     sliderImages: [
-        "assets/Images/Cauny/CaunyPrima/IMG_2103.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_1849.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_1850.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_2104.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_2105.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_2106.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_2107.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_2108.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_2109.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_2110.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_2111.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_2112.JPG",
-        "assets/Images/Cauny/CaunyPrima/IMG_2113.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2103.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_1849.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_1850.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2104.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2105.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2106.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2107.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2108.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2109.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2110.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2111.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2112.JPG",
+        "assets/Images/Cauny/1965_CaunyPrima/IMG_2113.JPG",
 
     ],
+    sellReport: {
+        price: 76,
+        date: "26/04/2018", 
+        url: "https://www.catawiki.pt/l/18192125-cauny-swiss-prima-17-jewels-504143-homem-1950-1959",
+    },
     technicalData: {
         Features: [
             "Date",
@@ -115,9 +120,9 @@ export default {
                 "AS 1950 Parts Catalogue": "../Files/AS_1951.pdf"
             },
             "sliderImages": [
-                "assets/Images/Cauny/CaunyPrima/mov (1).JPG",
-                "assets/Images/Cauny/CaunyPrima/mov (2).JPG",
-                "assets/Images/Cauny/CaunyPrima/mov (3).JPG",
+                "assets/Images/Cauny/1965_CaunyPrima/mov (1).JPG",
+                "assets/Images/Cauny/1965_CaunyPrima/mov (2).JPG",
+                "assets/Images/Cauny/1965_CaunyPrima/mov (3).JPG",
             ],
             "Details": {
                 "Manufacturer": "Adolf Schild [AS]",

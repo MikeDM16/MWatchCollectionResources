@@ -1,32 +1,36 @@
 export default {
-    title: "Tag Heuer Professional Formula-1 WA1212 1998",
+    title: "1998 Tag Heuer Professional Formula-1 WA1212",
     sliderImages: [
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5024.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5025.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5026.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5027.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5028.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5029.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5030.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5031.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5032.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5033.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5034.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5035.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5036.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5037.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5038.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5039.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5041.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5042.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_5043.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_0048.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_0049.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_0050.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_0051.JPG",
-        "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/IMG_0052.JPG"
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5024.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5025.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5026.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5027.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5028.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5029.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5030.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5031.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5032.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5033.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5034.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5035.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5036.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5037.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5038.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5039.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5041.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5042.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_5043.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_0048.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_0049.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_0050.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_0051.JPG",
+        "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/IMG_0052.JPG"
     ],
-
+    sellReport: {
+        price: 222,
+        date: "25/10/2019", 
+        url: "https://www.catawiki.com/l/30207381-tag-heuer-formula-1-professional-2000-wa1212-men-1990-1999",
+    },
     technicalData: {
         Features: [
             "Date",
@@ -39,7 +43,7 @@ export default {
         Information: {
             "Brand": "Tag Heuer",
             "Series": "Professional Formula-1 Series",
-            "Catalogue Reference": "WK1223",
+            "Catalogue Reference": "WK1212",
             "Prodution Year": "1998",
             "Movement": "Quartz",
             "Style": "Sports Watch"
@@ -79,10 +83,10 @@ export default {
                 "ETA 955.112": "http://www.eta.ch/en/our-products/quartz-movements/normflatline/eta-normflatline-955112",
             },
             "sliderImages": [
-                "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/ETA955412_1.JPG",
-                "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/ETA955412_2.JPG",
-                "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/ETA_955112.PNG",
-                "assets/Images/Tag_Heuer/Tag_Heuer_WA1212/ETA_955112-2.PNG"
+                "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/ETA955412_1.JPG",
+                "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/ETA955412_2.JPG",
+                "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/ETA_955112.PNG",
+                "assets/Images/Tag_Heuer/1998_Tag_Heuer_F1_WA1212/ETA_955112-2.PNG"
             ],
             "Details": {
                 "Manufacturer": "ETA (Swiss Made)",

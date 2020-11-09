@@ -1,5 +1,5 @@
 export default {
-    title: "Timex Marlin 1980",
+    title: "1980 Timex Marlin",
     Description: {
         text: "Most of the actual low to mid-range brands reduced their production costs by using cheap and very simple Chinese or Japanese quartz movements. \
          Regarding their very-low price range, the quartz movement will mostly be able to keep accurate time and for most of the buyers, that is the most \
@@ -51,25 +51,25 @@ export default {
     },
 
     sliderImages: [
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1928.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1929.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1930.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1931.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1932.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1933.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1934.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1935.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1936.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1937.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1938.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1939.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1940.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/IMG_1941.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/SAOK3953.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/timex_1.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/timex_2.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/timex_3.JPG",
-        "assets/Images/Timex/Timex_Marlin_1980/caravelle_LIFE_13_dec_1968.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1928.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1929.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1930.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1931.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1932.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1933.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1934.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1935.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1936.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1937.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1938.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1939.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1940.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/IMG_1941.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/SAOK3953.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/timex_1.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/timex_2.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/timex_3.JPG",
+        "assets/Images/Timex/1980_Timex_Marlin/caravelle_LIFE_13_dec_1968.JPG",
 
     ],
     technicalData: {
@@ -122,7 +122,7 @@ export default {
 
             },
             "sliderImages": [
-                "assets/Images/Timex/Timex_Marlin_1980/Timex_M100.JPG"
+                "assets/Images/Timex/1980_Timex_Marlin/Timex_M100.JPG"
             ],
             "Details": {
                 "Manufacturer": "Timex",

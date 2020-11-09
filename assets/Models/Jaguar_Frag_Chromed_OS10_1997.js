@@ -1,25 +1,30 @@
 export default {
-    title: "Jaguar Fragrances Chronograph - Limited Edition 1997",
+    title: "1997 Jaguar Fragrances Chronograph - Limited Edition",
 
     sliderImages: [
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4036.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4037.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4038.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4039.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4040.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4041.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4042.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4043.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4044.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4045.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4046.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4047.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4048.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4049.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4050.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4032.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/IMG_4033.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4036.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4037.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4038.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4039.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4040.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4041.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4042.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4043.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4044.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4045.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4046.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4047.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4048.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4049.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4050.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4032.JPG",
+        "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/IMG_4033.JPG",
     ],
+    sellReport: {
+        price: 249,
+        date: "21/02/2019", 
+        url: "https://www.catawiki.com/l/34465715-watch-jaguar-limited-edition-fragrances-chronograph-jaguar-1990-2000",
+    },
     technicalData: {
         Features: [
             "Date",
@@ -71,8 +76,8 @@ export default {
 
             },
             "sliderImages": [
-                "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/0s10-1.JPG",
-                "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1997/0s10-2.JPG",
+                "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/0s10-1.JPG",
+                "assets/Images/Jaguar/1997_Jaguar_Fragrances_Chrono/0s10-2.JPG",
             ],
 
             "Details": {

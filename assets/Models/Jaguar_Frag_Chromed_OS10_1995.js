@@ -1,26 +1,26 @@
 export default {
-    title: "Jaguar Fragrances Chronograph - Limited Edition 1995",
+    title: "1995 Jaguar Fragrances Chronograph - Limited Edition",
 
     sliderImages: [
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2775.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2776.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2777.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2778.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2779.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2781.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2782.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2783.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2784.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2785.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2786.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2787.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2788.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2789.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2790.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2791.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2792.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2793.JPG",
-        "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/IMG_2794.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2775.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2776.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2777.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2778.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2779.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2781.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2782.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2783.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2784.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2785.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2786.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2787.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2788.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2789.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2790.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2791.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2792.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2793.JPG",
+        "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/IMG_2794.JPG",
     ],
     technicalData: {
         Features: [
@@ -73,8 +73,8 @@ export default {
 
             },
             "sliderImages": [
-                "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/0s10-1.JPG",
-                "assets/Images/Jaguar/Jaguar_Fragrances_Chrono_1995/0s10-2.JPG",
+                "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/0s10-1.JPG",
+                "assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/0s10-2.JPG",
             ],
 
             "Details": {

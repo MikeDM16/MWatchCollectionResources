@@ -1,5 +1,5 @@
 export default {
-    title: "Kelton M24 Sub-Dive 1970",
+    title: "1970 Kelton M24 Sub-Dive",
     Description: {
         text: "Kelton is today still an existing watch company, keeping its productions and sells mainly in France, \
         where the company first appear and grow. The company was acquired by Timex during the 60s and since then it's a \
@@ -32,33 +32,38 @@ export default {
     },
 
     sliderImages: [
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1942.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1943.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1944.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1945.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1946.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1947.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1948.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1949.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1950.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1951.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1952.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1953.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1954.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1955.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1956.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_0273.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_0274.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_0276.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_0277.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_1764.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_2040.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_2042.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_2043.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/IMG_2600.JPG",
-        "assets/Images/Kelton/Kelton_M24_1970/dial.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1942.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1943.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1944.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1945.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1946.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1947.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1948.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1949.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1950.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1951.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1952.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1953.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1954.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1955.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1956.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_0273.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_0274.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_0276.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_0277.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_1764.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_2040.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_2042.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_2043.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/IMG_2600.JPG",
+        "assets/Images/Kelton/1970_Kelton_M24/dial.JPG",
 
     ],
+    sellReport: {
+        price: 100,
+        date: "02/08/2019", 
+        url: "https://www.catawiki.pt/l/28387083-kelton-m24-sub-dive-countdown-homem-1960-1969",
+    },
     technicalData: {
         Features: [
             "Date",
@@ -110,8 +115,8 @@ export default {
 
             },
             "sliderImages": [
-                "assets/Images/Kelton/Kelton_M24_1970/mov.JPG",
-                "assets/Images/Kelton/Kelton_M24_1970/Timex_M24-1.JPG",
+                "assets/Images/Kelton/1970_Kelton_M24/mov.JPG",
+                "assets/Images/Kelton/1970_Kelton_M24/Timex_M24-1.JPG",
             ],
             "Details": {
                 "Manufacturer": "Timex (France)",
