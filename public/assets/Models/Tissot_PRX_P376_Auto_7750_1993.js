@@ -1,0 +1,115 @@
+export default {
+  title: "1993 Tissot PRX P376 Automatic Chronograph Valjoux 7750",
+  sliderImages: [
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6389.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6390.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6391.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6393.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6394.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6395.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6396.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6397.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6398.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6399.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6400.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6401.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6402.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6403.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6404.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6405.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6407.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6408.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6409.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6410.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6411.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6413.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6413-1.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6414.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6415.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6416.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6417.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6423.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6425.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6426.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6427.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6427-1.JPG",
+    "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6428.JPG",
+  ],
+  sellReport: {
+    price: 370,
+    date: "08/05/2022",
+    url: "https://www.catawiki.com/en/l/58220069",
+  },
+  technicalData: {
+    Features: [
+      "Date",
+      "Automatic Chronograph",
+      "100 meters",
+      "Screw-in crown",
+      "Tachymeter",
+    ],
+
+    Information: {
+      Brand: "Tissot",
+      Series: "PRX",
+      "Catalogue Reference": "P376",
+      "Prodution Year": "1993",
+      Movement: "Automatic",
+      Style: "Dress Watch",
+    },
+
+    Case: {
+      Diameter: "39 mm",
+      Tickness: "14 mm",
+      Material: "Stainles Steel - Gold plated details",
+      "Water Resistance": "Waterproof up to 100 M / 328 feet",
+      Finishing: "Polished",
+      Bezel: "Dodecagon shape bezel, gold plated",
+      Crown: "Screw-In",
+      Crystal: "Saphire Crytal",
+      "Case Back": "Brand decoration and details engraved",
+    },
+
+    Dial: {
+      Color: "White",
+      "Dial markers": "Sticks",
+      "Finishing Details": "Detailed sub-dials",
+      "Luminescent Indexes": "Hands and markers (Tritium)",
+      Calendar: "Day/Date display at 3 o´clock position",
+    },
+
+    Bracelet: {
+      Material: "Leather",
+      Buckle: "Standard buckle",
+      Width: "20 mm",
+      Color: "Brown",
+    },
+
+    Movement: {
+      Title: "Valjoux 7750",
+      Description: "High quality automatic chronograph from Valjoux (Pré-ETA).",
+      UsefullLinks: {
+        "Ranfft 7750 Caliber":
+          "http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Valjoux_7750",
+        "Instruction Manual from ETA":
+          "../Files/3660_Valjoux7750operatinginstructions.pdf",
+      },
+      sliderImages: [
+        "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6425.JPG",
+        "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6426.JPG",
+        "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6427-1.JPG",
+        "public/assets/Images/Tissot/1993_Tissot_PRX_P376_7750/IMG_6428.JPG",
+      ],
+      Details: {
+        Manufacturer: "Valjoux",
+        "Caliber Number": "7750 (automatic, day, date)",
+        Type: "Automatic wind",
+        Frequency: "28800 A/h",
+        Jewels: "17 (Seventeen) Jewels ",
+        "Power Reserve": "46 Hours",
+        Functions:
+          "Day, Date, Hours, Minutes, Sweep Seconds at 9 o'clock, 12h 30M 60s Chronograph",
+      },
+    },
+  },
+};

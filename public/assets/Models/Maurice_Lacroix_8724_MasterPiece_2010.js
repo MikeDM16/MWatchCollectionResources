@@ -1,0 +1,118 @@
+export default {
+  title: "2021 Maurice Lacroix 8724 Masterpiece Valjoux 7750",
+  sliderImages: [
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1595.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1596.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1597.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1598.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1599.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1600.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1601.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1602.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1603.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1604.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1605.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1606.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1607.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1609.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1610.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1611.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1612.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1613.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1614.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1615.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1616.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1617.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1618 - Copy.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1618.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1619.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1620.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1620.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1621.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1622.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1623.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1624.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1625.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1626.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1626 - Copy.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1627.JPG",
+    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_8724_MasterPiece_Auto/IMG_1628.JPG",
+  ],
+  sellReport: {
+    price: 740,
+    date: "02/01/2022",
+    url: "https://www.catawiki.com/en/l/54044813",
+  },
+  technicalData: {
+    Features: [
+      "Date",
+      "Automatic Chronograph",
+      "100 meters",
+      "Screw-in crown",
+      "Tachymeter",
+    ],
+
+    Information: {
+      Brand: "Maurice Lacroix",
+      Series: "Automatic",
+      "Catalogue Reference": "8724",
+      "Prodution Year": "2021",
+      Movement: "Automatic",
+      Style: "Dress Watch",
+    },
+
+    Case: {
+      Diameter: "39 mm",
+      Tickness: "14 mm",
+      Material: "Stainles Steel",
+      "Water Resistance": "Waterproof up to 100 M / 328 feet",
+      Finishing: "Polished",
+      Bezel: "Tachymeter bezel",
+      Crown: "Screw-In",
+      Crystal: "Saphire Crytal",
+      "Case Back": "Brand decoration and details engraved",
+    },
+
+    Dial: {
+      Color: "White",
+      "Dial markers": "Sticks",
+      "Finishing Details": "Detailed sub-dials",
+      "Luminescent Indexes": "Hands and markers (Tritium)",
+      Calendar: "Date display at 3 o´clock position",
+    },
+
+    Bracelet: {
+      Material: "SS Links Bracelet",
+      Buckle: "Maurice Lacroix deploy clasp",
+      Width: "20 mm",
+      Color: "Grey",
+    },
+
+    Movement: {
+      Title: "Valjoux 7750",
+      Description: "High quality automatic chronograph from Valjoux (Pré-ETA).",
+      UsefullLinks: {
+        "Ranfft 7750 Caliber":
+          "http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Valjoux_7750",
+        "Instruction Manual from ETA":
+          "../Files/3660_Valjoux7750operatinginstructions.pdf",
+      },
+      sliderImages: [
+        "public/assets/Images/Pryngeps/1975_Pryngeps_7750/7750_1.JPG",
+        "public/assets/Images/Pryngeps/1975_Pryngeps_7750/7750_2.JPG",
+        "public/assets/Images/Pryngeps/1975_Pryngeps_7750/7750_3.JPG",
+        "public/assets/Images/Pryngeps/1975_Pryngeps_7750/7750_4.JPG",
+      ],
+      Details: {
+        Manufacturer: "Valjoux",
+        "Caliber Number": "7750 (automatic, day, date)",
+        Type: "Automatic wind",
+        Frequency: "28800 A/h",
+        Jewels: "17 (Seventeen) Jewels ",
+        "Power Reserve": "46 Hours",
+        Functions:
+          "Day, Date, Hours, Minutes, Sweep Seconds at 9 o'clock, 12h 30M 60s Chronograph",
+      },
+    },
+  },
+};

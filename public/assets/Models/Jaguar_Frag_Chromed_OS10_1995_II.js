@@ -1,0 +1,110 @@
+export default {
+  title: "1995 Jaguar Fragrances Chronograph - Limited Edition",
+
+  sliderImages: [
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6598.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6599.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6600.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6601.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6602.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6604.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6605.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6606.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6607.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6609.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6610.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6611.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6612.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6613.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6614.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6615.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6616.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6617.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6618.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6619.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6620.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6621.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6622.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6623.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6624.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6625.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6626.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6627.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6628.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6629.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6630.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6631.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6632.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6633.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6634.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6635.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6636.JPG",
+    "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono_II/IMG_6637.JPG",
+  ],
+  sellReport: {
+    price: 140,
+    date: "21/04/2022",
+    url: "https://www.catawiki.com/en/l/57915195",
+  },
+  technicalData: {
+    Features: ["Date", "Chronograph", "30 meters"],
+
+    Information: {
+      Brand: "Jaguar Fragrances",
+      Series: "Fragrances Collection - Limited Edition",
+      "Catalogue Reference": "-",
+      "Prodution Year": "1995",
+      Movement: "Quartz",
+      Style: "Sports Watch",
+    },
+
+    Case: {
+      Diameter: "40 mm",
+      Tickness: "10 mm",
+      Material: "Stainless Steel",
+      "Water Resistance": "Waterproof up to 30 M / 100 feet",
+      Finishing: "Chromed",
+      Bezel: "Uni-directional, 10-minute graduated",
+      Crown: "Push-In",
+      Crystal: "Hardened Mineral",
+      "Case Back": "Brand decoration and details engraved",
+    },
+
+    Dial: {
+      Color: "Blue",
+      "Dial markers": "Sticks",
+      "Finishing Details": "Radial brushed effect, detailed Sub-Dials",
+      "Luminescent Indexes": "Hands",
+      Calendar: "Date display at 3 o´clock sub-dial",
+    },
+
+    Bracelet: {
+      Material: "Leather (Shark skin)",
+      Buckle: "Standard Buckle",
+      Width: "20 mm",
+      Color: "Blue",
+    },
+
+    Movement: {
+      Title: "Miyota OS10",
+      Description: "",
+      UsefullLinks: {
+        "Instruction Manual from Miyota": "../Files/JM_MiyotaOS10.pdf",
+      },
+      sliderImages: [
+        "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/0s10-1.JPG",
+        "public/assets/Images/Jaguar/1995_Jaguar_Fragrances_Chrono/0s10-2.JPG",
+      ],
+
+      Details: {
+        Manufacturer: "Miyota (Citizen)",
+        "Caliber Number": "OS10",
+        Type: "Quartz",
+        Battery: "399",
+        Jewels: "0 Jewels (None)",
+        Functions:
+          "Chrono up to 12 hours 60min, Date, Hours, Minutes, Seconds at 6 o´clock",
+      },
+    },
+  },
+};
