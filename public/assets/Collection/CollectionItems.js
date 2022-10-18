@@ -5,7 +5,7 @@ const CollectionItems = {
     year: "2021",
     category: "Modern",
     type: "Dress",
-    src: "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/IMG_8970.jpg",
+    src: "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/IMG_8970.JPG",
     href: require("../Models/Maurice_Lacroix_5393_Chrono_2021"),
     specialCollectionItem: true,
   },

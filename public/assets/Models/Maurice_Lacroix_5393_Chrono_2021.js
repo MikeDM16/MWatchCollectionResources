@@ -22,7 +22,6 @@ export default {
     "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/IMG_8966.JPG",
     "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/IMG_8967.JPG",
     "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/IMG_8968.JPG",
-    "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/IMG_8969.JPG",
     "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/IMG_8970.JPG",
     "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/IMG_8971.JPG",
     "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/IMG_8972.JPG",
@@ -67,8 +66,8 @@ export default {
 
     Dial: {
       Color: "White",
-      "Dial markers": "Roman",
-      "Finishing Details": "Detailed sub-dials",
+      "Dial markers": "Arabic",
+      "Finishing Details": "Enamel Dial",
       "Luminescent Indexes": "Hands and markers (Tritium)",
       Calendar: "Date display at 4 o'clock position",
     },
@@ -81,19 +80,13 @@ export default {
     },
 
     Movement: {
-      Title: "ETA 251.272",
+      Title: "ETA 251.264",
       Description:
         "High-end Swiss made movement, designed by the well know ETA company. \n" +
         "It can also be found in models of some prestigious brands like Tissot, Cartier, \
                              Hamilton and even some Tag Heuer Professional chronographs.\n\n \
-                             GOldplated and thermocompensated caliber. \nQuick hour setting by 1h jumps on the crown first position. ",
-      UsefullLinks: {
-        "Instruction manual from ETA":
-          "../Files/ETA251.272operatinginstructions.pdf",
-        "Instruction manual from Delma": "../Files/Delma_instructions.pdf",
-        "ETA 251.272 Parts Catalogue":
-          "../Files/5424_ETA 251.252, 262, 272 New.pdf",
-      },
+                             Gold-plated and thermo compensated caliber. \nQuick hour setting by 1h jumps on the crown first position. ",
+      UsefullLinks: {  },
       sliderImages: [
         "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/eta_251_264.JPG", 
         "public/assets/Images/Maurice_Lacroix/2021_Maurice_Lacroix_5393_Chrono/eta_251_264_2.JPG", 
